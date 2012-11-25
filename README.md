@@ -55,3 +55,10 @@ Minimal and enough. Adaptive and responsive. Revolution grid and beautiful typog
 
 **Website:** http://flaminwork.com/
 
+## G5 Framework
+
+> (X)HTML5, CSS3, PHP & jQuery Front End Framework.  
+ 
+G5 Framework started as a personal project. In an attempt to speed up workflow, reuse the best coding practices & similar coding techniques, the framework serves as a starter file for new websites.
+
+**Website:** http://framework.gregbabula.info/
