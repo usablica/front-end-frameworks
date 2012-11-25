@@ -9,6 +9,14 @@ A collection of best front-end frameworks for faster and easier web development.
 
 **Website:** http://twitter.github.com/bootstrap/
 
+## 960 Grid System
+
+> Simple grid system
+
+The 960 Grid System is an effort to streamline web development workflow by providing commonly used dimensions, based on a width of 960 pixels. There are two variants: 12 and 16 columns, which can be used separately or in tandem.
+
+**Website:** http://960.gs/
+
 ## Skeleton
 
 > A Beautiful Boilerplate for Responsive, Mobile-Friendly Development.  
