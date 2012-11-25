@@ -9,6 +9,14 @@ A collection of best front-end frameworks for faster and easier web development.
 
 **Website:** http://twitter.github.com/bootstrap/
 
+## Foundation
+
+> The most advanced responsive front-end framework in the world.
+
+Foundation 3 is built with Sass, a powerful CSS preprocessor, which allows us to much more quickly develop Foundation itself and gives you new tools to quickly customize and build on top of Foundation.
+
+**Website:** http://foundation.zurb.com/
+
 ## 960 Grid System
 
 > Simple grid system
