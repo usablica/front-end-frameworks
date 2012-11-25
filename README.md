@@ -62,3 +62,12 @@ Minimal and enough. Adaptive and responsive. Revolution grid and beautiful typog
 G5 Framework started as a personal project. In an attempt to speed up workflow, reuse the best coding practices & similar coding techniques, the framework serves as a starter file for new websites.
 
 **Website:** http://framework.gregbabula.info/
+
+
+## Easy Framework
+
+> Your new starting point for every front-end projects!  
+ 
+Easy is a CSS/HTML/JavaScript framework started as a personal project and then grew into something more. The idea behind it is to reduce the amount of time spent on setting up the basic master HTML template by reusing the same coding techniques.
+
+**Website:** http://easyframework.com/
