@@ -49,4 +49,9 @@ Minimal and enough. Adaptive and responsive. Revolution grid and beautiful typog
 
 **Website:** http://imperavi.com/kube/
 
+## Flaminwork
+
+> The tiny front-end framework for lazy developers.
+
+**Website:** http://flaminwork.com/
 
