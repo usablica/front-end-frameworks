@@ -88,3 +88,21 @@ Easy is a CSS/HTML/JavaScript framework started as a personal project and then g
 **Responsive:** No  
 
 **Website:** http://easyframework.com/
+
+## Blueprint
+
+Blueprint is a CSS framework, which aims to cut down on your development time. It gives you a solid foundation to build your project on top of, with an easy-to-use grid, sensible typography, useful plugins, and even a stylesheet for printing.
+
+**Responsive:** No  
+
+**Website:** http://www.blueprintcss.org/
+
+## YAML
+
+> “Yet Another Multicolumn Layout” (YAML) 
+ 
+YAML is an (X)HTML/CSS framework for creating modern and flexible floated layouts. The structure is extremely versatile in its programming and absolutely accessible for end users.
+
+**Responsive:** Yes  
+
+**Website:** http://www.yaml.de/
