@@ -106,3 +106,19 @@ YAML is an (X)HTML/CSS framework for creating modern and flexible floated layout
 **Responsive:** Yes  
 
 **Website:** http://www.yaml.de/
+
+## BlueTrip
+
+A full featured and beautiful CSS framework which originally combined the best of Blueprint, Tripoli (hence the name), Hartija, 960.gs, and Elements, but has now found a life of its own.
+
+**Responsive:** No  
+
+**Website:** http://bluetrip.org/
+
+## YUI 2: Grids CSS
+
+The foundational YUI Grids CSS offers four preset page widths, six preset templates, and the ability to stack and nest subdivided regions of two, three, or four columns. The 4kb file provides over 1000 page layout combinations.
+
+**Responsive:** No  
+
+**Website:** https://developer.yahoo.com/yui/grids/
