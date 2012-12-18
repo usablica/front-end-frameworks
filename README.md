@@ -1,4 +1,4 @@
-Front-end Frameworks v2.2
+Front-end Frameworks v2.3
 ====================
 
 A collection of best front-end frameworks for faster and easier web development.
@@ -122,3 +122,29 @@ The foundational YUI Grids CSS offers four preset page widths, six preset templa
 **Responsive:** No  
 
 **Website:** https://developer.yahoo.com/yui/grids/
+
+## Elements
+
+> Elements is a down to earth CSS framework.
+
+It was built to help designers write CSS faster and more efficient. Elements goes beyond being just a framework, it’s its own project workflow.It has everything you need to complete your project, which makes you and your clients happy.
+
+**Responsive:** No  
+
+**Website:** http://elements.projectdesigns.org/
+
+## 52framework
+
+With HTML5 support coming so fast, with the tiniest of hacks we are able to use it today in virtually al browsers. Using HTML5 makes for much cleaner mark up. This framework fully uses all the great advantages of HTML5.
+
+**Responsive:** No  
+
+**Website:** http://52framework.com/
+
+## elastiCSS
+
+A simple css framework to layout web-based interfaces, based on the printed layout techniques of 4 columns but with capabilities to  unlimited column combinations. and capacity to make elastic, fixed and liquid layout easily  
+
+**Responsive:** No  
+
+**Website:** http://elasticss.com/
