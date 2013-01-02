@@ -1,4 +1,4 @@
-Front-end Frameworks v2.3
+Front-end Frameworks v2.4
 ====================
 
 A collection of best front-end frameworks for faster and easier web development.
