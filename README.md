@@ -159,7 +159,6 @@ As one of the original authors of Blueprint CSS I’ve decided to re-factor my i
 
 **Website:** http://code.google.com/p/css-boilerplate/
 
-
 ## Emastic
 
 Emastic is a CSS Framework, it’s continuing mission: to explore a strange new world, to seek out new life and new web spaces, to boldly go where no CSS Framework has gone before.
@@ -167,3 +166,21 @@ Emastic is a CSS Framework, it’s continuing mission: to explore a strange new 
 **Responsive:** No  
 
 **Website:** http://code.google.com/p/emastic/
+
+## Malo
+
+> Malo is ultra small css library for building web sites.
+
+Malo is ultra small css library for building web sites. It is meant to be structural base for small or medium web sites. Malo derives from it’s bigger brother Emastic CSS Framework.
+
+**Responsive:** No  
+
+**Website:** http://code.google.com/p/malo/
+
+## The Golden Grid
+
+The Golden Grid is a web grid system. It 's a product of the search for the perfect modern grid system. It 's meant to be a CSS tool for grid based web sites.
+
+**Responsive:** No  
+
+**Website:** http://code.google.com/p/the-golden-grid/
