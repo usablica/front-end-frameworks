@@ -148,3 +148,22 @@ A simple css framework to layout web-based interfaces, based on the printed layo
 **Responsive:** No  
 
 **Website:** http://elasticss.com/
+
+## Boilerplate
+
+> noun standardized pieces of text for use as clauses in contracts or as part of a computer program.
+
+As one of the original authors of Blueprint CSS I’ve decided to re-factor my ideas into a stripped down framework which provides the bare essentials to begin any project. This framework will be lite and strive not to suggest un-semantic naming conventions. You’re the designer and your craft is important.
+
+**Responsive:** No  
+
+**Website:** http://code.google.com/p/css-boilerplate/
+
+
+## Emastic
+
+Emastic is a CSS Framework, it’s continuing mission: to explore a strange new world, to seek out new life and new web spaces, to boldly go where no CSS Framework has gone before.
+
+**Responsive:** No  
+
+**Website:** http://code.google.com/p/emastic/
