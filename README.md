@@ -1,4 +1,4 @@
-Front-end Frameworks v2.4
+Front-end Frameworks v2.5
 ====================
 
 A collection of best front-end frameworks for faster and easier web development.
@@ -60,6 +60,16 @@ Minimal and enough. Adaptive and responsive. Revolution grid and beautiful typog
 **Responsive:** Yes  
 
 **Website:** http://imperavi.com/kube/
+
+## Less Framework
+
+> An adaptive CSS grid system.  
+
+Less Framework is a CSS grid system for designing adaptive web­sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid. 
+
+**Responsive:** Yes  
+
+**Website:** http://lessframework.com/
 
 ## Flaminwork
 
@@ -220,3 +230,23 @@ Based on a simple 960px wide grid system, featuring multiple column layouts, and
 **Responsive:** No  
 
 **Website:** http://code.google.com/p/lovely-css/
+
+## xCSS
+
+> Object-Oriented CSS Framework
+
+xCSS bases on CSS and empowers a straightforward and object-oriented workflow when developing complex style cascades. Using xCSS means a dramatic cut down to your development time by: having a intuitive overview of the overall CSS structure, using variables, re-using existing style cascades and many other handy features.  
+
+**Responsive:** No  
+
+**Website:** http://xcss.antpaw.org/
+
+## FEM CSS Framework
+
+FEM CSS Framework is a 960px width + 12 column grid system + CSS common styles, to easy and fast develop web layouts. It is based in the 960 Grid System, but with a twist in the philosophy to make it more flexible and faster to play with boxes.  
+
+**Responsive:** No  
+
+**Website:** http://www.frontendmatters.com/projects/fem-css-framework/
+
+
