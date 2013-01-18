@@ -184,3 +184,39 @@ The Golden Grid is a web grid system. It 's a product of the search for the perf
 **Responsive:** No  
 
 **Website:** http://code.google.com/p/the-golden-grid/
+
+## 1kb grid
+
+Other CSS frameworks try to do everything—grid system, style reset, basic typography, form styles. But complex systems are, well, complex. Looking for a simple, lightweight approach that doesn't require a PhD? Meet The 1KB CSS Grid.  
+
+**Responsive:** No  
+
+**Website:** http://www.1kbgrid.com/
+
+## Fluid 960 Grid System
+
+The Fluid 960 Grid System templates have been built upon the work of Nathan Smith and his 960 Grid System using effects from the MooTools and jQuery JavaScript libraries.  
+
+**Responsive:** No  
+
+**Website:** http://www.designinfluences.com/fluid960gs/
+
+## Baseline
+
+> Baseline is a framework built around the idea of a “real” baseline grid.
+
+Built with typographic standards in mind, Baseline makes it easy to develop a website with a pleasing grid and good typography. Baseline starts with several files to reset the browser’s default behavior, build a basic typographic layout — including style for HTML forms and new HTML 5 elements — and build a simple grid system.  
+
+**Responsive:** No  
+
+**Website:** http://www.baselinecss.com/
+
+## Lovely CSS Framework
+
+> The Lovely CSS Framework is a simple and straight forward way to easily deploy an XHTML/CSS site.  
+
+Based on a simple 960px wide grid system, featuring multiple column layouts, and various pluggable add-ons.
+
+**Responsive:** No  
+
+**Website:** http://code.google.com/p/lovely-css/
