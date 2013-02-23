@@ -19,7 +19,7 @@ header h1 {
 	font-weight: normal;
 	color: #282828;
 	margin:auto;
-	font-size:118px;
+	font-size:120px;
 	line-height:95px;
 	background-image:url(../images/noise.png);
 	z-index: 1;
@@ -52,7 +52,7 @@ header h3 {
 	font-weight: normal;
 	margin: auto;
 	color:#282828;
-	font-size: 20.7px;
+	font-size: 19.7px;
 	line-height:28px;
 	text-transform:uppercase;
 }
