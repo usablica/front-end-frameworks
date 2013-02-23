@@ -1,0 +1,281 @@
+@charset "utf-8";
+@import url('http://fonts.googleapis.com/css?family=Droid+Sans');
+@import url('hint.css');
+/* CSS Document */
+
+body { 
+	width:980px;
+	margin:auto;
+	background-image:url(../images/noise.png);
+	font-family: 'Droid Sans';
+}
+header {
+	text-align: center;
+	margin:50px auto;
+	position:relative;
+}
+header h1 {
+	font-family: 'Droid sans-serif';
+	font-weight: normal;
+	color: #282828;
+	margin:auto;
+	font-size:120px;
+	line-height:95px;
+	background-image:url(../images/noise.png);
+	z-index: 1;
+	position: relative;
+	width: 240px;
+}
+header .line {
+	position:absolute;
+	width:980px;
+	height:1px;
+	border-top:5px double rgba(0,0,0,.5);
+	border-bottom:5px double rgba(0,0,0,.5);
+	top: 70px;
+	left: 0px;
+	z-index: 0;
+}
+header h2 {
+	letter-spacing: 7px;
+	font-family: 'Droid sans-serif';
+	font-weight: normal;
+	margin: auto;
+	color:#282828;
+	font-size: 25px;
+	line-height:26px;
+	text-transform:uppercase;
+}
+header h3 {
+	letter-spacing: 7px;
+	font-family: 'Droid sans-serif';
+	font-weight: normal;
+	margin: auto;
+	color:#282828;
+	font-size: 19.7px;
+	line-height:28px;
+	text-transform:uppercase;
+}
+.clr {
+	font-size:70px;
+	margin:20px auto auto;
+	text-align:center;
+	width: 980px;
+	line-height:1.5em;
+	color:#828282;
+	display:block;
+}
+header p {
+	font-weight: normal;
+	margin:auto;
+	color:#282828;
+	font-size: 18px;
+	line-height:1.5em;
+}
+section {
+	margin:50px auto;
+}
+section table {
+	width:980px;
+	margin:auto;
+	&background:rgba(255,255,255,0.5) url(../images/grid.png);
+	border:rgba(255,255,255,.2) 10px solid;
+    border-spacing: 1px;
+    border-image: url(../images/content-border.png) 10 repeat;
+    -moz-border-image: url(../images/content-border.png) 10 repeat;
+    -webkit-border-image: url(../images/content-border.png) 10 repeat;
+    box-shadow: 0 0 7px 0px rgba(162,162,162,.5);
+}
+
+section table tr:nth-child(even) {
+    background:rgba(255,255,255,0.5) url(../images/grid.png);
+}
+section table tr:nth-child(odd) {
+    background:rgba(255,255,255,0.9) url(../images/grid.png);
+}
+section table tr td:first-child {
+	width:450px;
+}
+section table tr td:last-child {
+    width:148px;
+}
+section table tr td {
+    width: 100px;
+    max-height: 70px;
+}
+section table tr h1 {
+	font-weight: normal;
+	margin: auto;
+	color:#000;
+	font-size: 20px;
+	padding:0px 10px;
+	line-height:3.5em;
+	text-align:left;
+    float: left;
+}
+section table tr h2 {
+	font-weight: normal;
+	margin: auto;
+	color:#828282;
+	font-size: 16px;
+	padding:0px 15px;
+	line-height:1.5em;
+	text-align:center;
+}
+section table tr p {
+	font-weight: normal;
+	margin:10px auto;
+	color:#282828;
+	border-left:3px solid rgba(255,255,255,.3);
+	font-size: 16px;
+	padding:20px;
+	line-height:1.5em;
+}
+a {
+	text-decoration:none !important;
+	color:inherit;
+}
+section table h1 a:hover {
+	color:#900;
+}
+table tr td span {
+    text-transform: uppercase;
+    font-family: Impact;
+    float: left;
+    font-size: 20px;
+    border: 3px solid;
+    padding: 5px;
+    margin:15px 20px;
+    display: inline-block;
+}
+table tr td span.yes {
+    color: rgba(41,145,0,.8);
+    border-color: rgba(41,145,0,.8);
+    transform: rotate(10deg);
+    -webkit-transform: rotate(10deg);
+    -moz-transform: rotate(10deg);
+    -o-transform: rotate(10deg);
+    -ms-transform: rotate(10deg);
+}
+table tr td span.no {
+    color: rgba(145,0,0,.8);
+    border-color: rgba(145,0,0,.8);
+    transform: rotate(-7deg);
+    -webkit-transform: rotate(-7deg);
+    -moz-transform: rotate(-7deg);
+    -o-transform: rotate(-7deg);
+    -ms-transform: rotate(-7deg);
+}
+.responsive {
+    width: auto;
+    display: inline-block;
+    margin: 10px 30px;
+    position: relative;
+    float: right;
+}
+.responsive.yes .desktop ,
+.responsive .desktop.yes {
+    background: url(../images/desktop-yes.png) right bottom no-repeat; 
+}
+.responsive.yes .tablet ,
+.responsive .tablet.yes {
+    background: url(../images/tablet-yes.png) right bottom no-repeat; 
+}
+.responsive.yes .phone ,
+.responsive .phone.yes {
+    background: url(../images/phone-yes.png) right bottom no-repeat; 
+}
+
+.responsive .desktop {
+    margin: auto;
+    float: right;
+    width: 73px;
+    height: 52px;
+    background: url(../images/desktop.png) center center no-repeat;
+    display: inline-block;
+}
+.responsive .tablet {
+    margin: auto;
+    float: right;
+    width: 34px;
+    height: 52px;
+    background: url(../images/tablet.png) right bottom no-repeat;
+    display: inline-block;
+    margin-right: -17px;
+}
+.responsive .phone {
+    margin: auto;
+    float: right;
+    width: 15px;
+    height: 52px;
+    background: url(../images/phone.png) bottom right no-repeat;
+    display: inline-block;
+    margin-right: -9px;
+}
+.info {
+    width: auto;
+    margin: 0;
+    float: right;
+    height: 74px;
+    width: 345px;
+    background: rgba(162,162,162,.3);
+   	position: relative;
+    opacity:0;
+    visibility: hidden;
+    left: -10px;
+    transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -ms-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+}
+td:hover .info {
+    visibility: visible;
+    opacity: 1;
+    left: 0;
+}
+
+.info:after {
+	right: 100%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.info:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-right-color: rgba(162,162,162,.3);
+	border-width: 15px;
+	top: 50%;
+	margin-top: -15px;
+}
+.info p {
+    font-size: 14px;
+    color: #282828;
+    line-height: 1.3em;
+    margin: 0;
+    border: none;
+    padding: 10px 10px;
+    vertical-align: middle;
+}
+.info a {
+    color: #006099;
+    padding: 5px 0;
+}
+.info a:hover {
+    color: #900;
+}
+footer {
+    text-align: center;
+    color: #828282;
+    font-size: 14px;
+}
+footer a {
+    color: #006099;
+}
+footer a:hover {
+    color: #900;
+}
