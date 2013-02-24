@@ -128,13 +128,15 @@ A full featured and beautiful CSS framework which originally combined the best o
 
 **Website:** http://bluetrip.org/
 
-## YUI 2: Grids CSS
+## YUI CSS
 
-The foundational YUI Grids CSS offers four preset page widths, six preset templates, and the ability to stack and nest subdivided regions of two, three, or four columns. The 4kb file provides over 1000 page layout combinations.
+> Simple CSS for the web
 
-**Responsive:** No  
+The foundational YUI CSS is an extremely lightweight layer of responsive CSS for your projects. It offers a customizable responsive grid , along with styling for forms, tables, menus, popovers, notifications, images and more. Plays nice with YUI's JavaScript Framework. 
 
-**Website:** https://developer.yahoo.com/yui/grids/
+**Responsive:** Yes 
+
+**Website:** https://tilomitra.github.com/
 
 ## Elements
 
