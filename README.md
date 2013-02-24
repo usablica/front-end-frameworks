@@ -1,7 +1,10 @@
 Front-end Frameworks v2.5
 ====================
 
-A collection of best front-end frameworks for faster and easier web development.
+A collection of best front-end frameworks for faster and easier web development.  
+
+You can **Compare** all front-end frameworks here: http://usablica.github.com/front-end-frameworks/compare.html  
+
 
 ## Twitter Bootstrap
 
