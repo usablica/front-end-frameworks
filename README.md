@@ -260,3 +260,10 @@ Helium is a framework for rapid prototyping and production-ready development. In
 
 **Website:** https://github.com/cbrauckmuller/helium
 
+## Sidereel Groundwork
+
+A responsive HTML5, CSS and JavaScript framework built with SASS and Compass. There is heavy focus on responsiveness and making a single layout work on different devices.
+
+**Responsive:** Yes  
+
+**Website:** http://groundwork.sidereel.com/
