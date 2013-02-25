@@ -267,3 +267,11 @@ A responsive HTML5, CSS and JavaScript framework built with SASS and Compass. Th
 **Responsive:** Yes  
 
 **Website:** http://groundwork.sidereel.com/
+
+## Gumby
+
+Gumby is a responsive 960 grid CSS framework. The grid lets you lay out pages quickly and easily in a natural, logical way. The framework is packaged with tons of styles and common interface elements to help you quickly put together functional prototypes. 
+
+**Responsive:** Yes  
+
+**Website:** http://gumbyframework.com
