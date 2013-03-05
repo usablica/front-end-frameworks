@@ -44,6 +44,14 @@ Skeleton is a small collection of CSS files that can help you rapidly develop si
 
 **Website:** http://www.getskeleton.com/
 
+## GroundworkCSS
+
+A responsive framework with a fractional, semantic grid system built with Sass &amp; Compass.
+
+**Responsive:** Yes  
+
+**Website:** http://groundwork.sidereel.com/
+
 ## 99lime HTML KickStart
 
 > Ultra–Lean HTML Building Blocks for Rapid Website Production.  
@@ -259,14 +267,6 @@ Helium is a framework for rapid prototyping and production-ready development. In
 **Responsive:** Yes  
 
 **Website:** https://github.com/cbrauckmuller/helium
-
-## Sidereel Groundwork
-
-A responsive HTML5, CSS and JavaScript framework built with SASS and Compass. There is heavy focus on responsiveness and making a single layout work on different devices.
-
-**Responsive:** Yes  
-
-**Website:** http://groundwork.sidereel.com/
 
 ## Gumby
 
