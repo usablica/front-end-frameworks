@@ -144,7 +144,7 @@ The foundational YUI CSS is an extremely lightweight layer of responsive CSS for
 
 **Responsive:** Yes 
 
-**Website:** https://tilomitra.github.com/
+**Website:** http://yuilibrary.com/
 
 ## Elements
 
