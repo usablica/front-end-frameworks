@@ -58,7 +58,7 @@ A responsive framework with a fractional, semantic grid system built with Sass &
 
 HTML KickStart is an ultra–lean set of HTML5, CSS, and jQuery (javascript) files, layouts, and elements designed to give you a headstart and save you 10's of hours on your next web project.  
 
-**Responsive:** No  
+**Responsive:** Yes  
 
 **Website:** http://www.99lime.com/
 
