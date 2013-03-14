@@ -1,0 +1,577 @@
+@charset "utf-8";
+@import url('http://fonts.googleapis.com/css?family=Droid+Sans');
+
+/* Base CSS */
+body {
+    background: url(../images/noise.png);
+    width: 980px;
+    margin: auto;
+    font-family: 'Droid Sans';
+}
+a,a:hover ,a:active { 
+    color: inherit;
+    text-decoration: none;
+}
+header,section,table,footer,ul,li {
+    width: auto;
+    margin: 0; 
+}
+/* Header TypoGraphy */
+header hgroup {
+    width: 220px;
+    margin:auto;
+    text-align: center;
+}
+header h1, header h2,header h3 { 
+    background: #900;
+    color: #fff;
+    font-weight: normal;
+    margin: 0 auto 5px;  
+}
+header h1 {
+    padding-top: 15px;
+}
+header h1 span {
+    font-size: 115px;
+    margin: 5px auto;
+    padding: 0px 0;
+    line-height: 1.3em;
+}
+header h2 span {
+    letter-spacing: 8px;
+    font-size: 20px;
+}
+header h3 {
+    position: relative;
+}
+header h3:after {
+	top: 100%;
+	border-left:110px solid transparent;
+    border-right:110px solid transparent;
+    border-top: 30px solid #900;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+    left:0;
+    margin-left: 0;
+}
+header h3 span {
+    font-size: 16.5px;
+    letter-spacing: 6px
+}
+
+/* Middle TypoGraphy */
+section article {
+    width: 450px;
+    margin:60px auto;
+    text-align: justify;
+}
+section p {
+    text-align: center;
+    text-transform: uppercase;
+    margin:5px auto;
+}
+section p:first-child {
+    font-size: 18px;
+}
+section p:nth-child(2) {
+    font-size: 68px;
+    color:rgb(68,84,106);
+    margin-left: -3px;
+}
+section p:nth-child(2) small {
+    font-size: 25px;
+    position: relative;
+    top: -10px;
+    color: #808080;
+    margin: auto 2px;
+}
+section p:last-child {
+    font-size: 49.3px;
+    margin-top:-10px;
+    padding-left: 5px;
+}
+/* Share */
+.share {
+    margin: auto;
+    overflow: hidden;
+}
+.share ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    color: #282828;
+    width: auto;
+}
+.share ul li {
+    float: left;
+    background:#f2f2f2;
+    line-height: 1.3em;
+    width: auto;
+    max-height: 40px;
+    text-align: center;
+}
+.share ul li span {
+    margin: 10px;
+    display: block;
+}
+.share ul li:hover {
+    background: #ddd;
+}
+.share ul li:first-child,.share ul li:first-child:hover {
+    background: #900;
+    color: #fff;
+    width:221px;
+    position: relative;
+}
+.share ul li:nth-child(2) {
+    width: 239px;
+}
+.share ul li:first-child:after {
+	left: 100%;
+	border:7px solid transparent;
+    border-left-color: #900;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+    top: 50%;
+	margin-top: -7px;
+}
+/* Table */ /* We should use nav and ul li for collapsing details */
+nav {
+    width: 980px;
+    margin:30px auto;
+    list-style: none;
+}
+.guide {
+    padding: 0;
+    margin:0 0 15px;
+    line-height: 1.3em;
+    color: rgb(94, 94, 94);
+    text-shadow: -1px -1px #fff;
+    opacity: 0;
+    transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -ms-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+}
+nav:hover .guide {
+    opacity: 1;
+}
+nav .parent {
+   margin: 1px auto;
+   overflow: hidden;
+   display: block;
+}
+nav .parent:nth-child(odd) ul li {
+    background:rgba(255,255,255,1) url(../images/grid.png);
+}
+nav .parent:nth-child(even) ul li {
+    background:rgba(229, 232, 234,.5) url(../images/grid.png);
+}
+nav .parent ul:hover li {
+    background: rgba(175, 175, 175, 0.30) url(../images/grid.png);
+    cursor: pointer;
+}
+nav .parent ul {
+    list-style: none;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* Table > Sizing */
+nav .parent li {
+    width: 326px;
+    float: left;
+    height:60px;
+    line-height: 1.5em;
+    margin:.5px;
+    transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -ms-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+}
+nav .parent li:first-child {
+    width: 225px;
+    margin-left: 0;
+}
+nav .parent li:first-child.active {
+    background: #900;
+    color: #fff;
+}
+nav .parent li:first-child.active:hover h1 {
+    color: #fff !important; 
+}
+nav .parent li:nth-child(2) {
+    width: 653px;
+}
+nav .parent li:last-child {
+    width: 100px;
+    margin-right: 0;
+}
+
+/* Table > Name */
+nav .parent li h1 {
+    padding: 0 10px;
+    display: block;
+    font-size:18px;
+    font-weight: normal;
+}
+nav .parent li:first-child:hover h1 {
+    color: #900;
+}
+/* Table > Compare > Browsers */
+.details {
+    margin: 10px 0;
+    padding:0 7px;
+}
+nav .parent ul:hover .details {
+    
+}
+.details .browsers,
+.details .ui,
+.details .respionsive {
+    float: left;
+    display: inline-block;
+    overflow: hidden;
+    padding-right: 25px;
+}
+.details .browsers span:first-child {
+    margin-left:5px;   
+}
+.details .browsers span {
+    width: 35px;
+    height: 35px;
+    margin: auto auto auto 30px;
+    background-color: #ddd;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    float: left;
+    position: relative;
+}
+.details .browsers span:after {
+    width: 25px;
+    height: 35px;
+    background-image: url(../images/plus.png);
+    background-position: 17px 5px;
+    background-repeat: no-repeat;
+    content: attr(data-version);
+    color: #fff;
+    float: right;
+    margin-right: -25px;
+    text-align: center;
+    line-height: 40px;
+}
+.details .browsers span[data-version="+"]:after {
+    background-image: none;
+}
+/* Table > Compare > Browsers > Browsers image */
+    .ie {background-image: url(../images/ie.png)}
+    .cr {background-image: url(../images/cr.png)}
+    .op {background-image: url(../images/op.png)}
+    .sa {background-image: url(../images/sa.png)}
+    .ff {background-image: url(../images/ff.png)}
+/* Table > Compare > Browsers > Versions collors */
+    .ie:after {background-color: rgb(46,117,182);}
+    .cr:after {background-color: rgb(84,130,53);}
+    .op:after {background-color: rgb(192,0,0);}
+    .sa:after {background-color: #555;}
+    .ff:after {background-color: rgb(197,90,17);}
+/*  --------------- */
+/* Table > Compare > UIs */
+.details .ui {
+    margin:0 15px;
+    padding:0 20px;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+.details .ui span {
+    width: 35px;
+    height: 35px;
+    margin:auto 0;
+    background: #ddd;
+    display:inline-block;
+    float:left;
+    position: relative;
+    text-align: center;
+    line-height: 37px;
+    color: #939393;
+    font-size: 16px;
+}
+.details .ui span.sass ,
+.details .ui span.less  {
+    padding: 0px 16px 0 10px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 40px;
+}
+.details .ui span.sass[data-active="yes"] {
+    border-left:3px solid rgb(0, 84, 124);
+}
+.details .ui span.less[data-active="yes"] {
+    border-right:3px solid rgb(0, 84, 124);
+}
+
+.details .ui span[data-active="yes"] {
+    color: #FFF;
+    background: rgb(0, 140, 152);
+}
+/* Table > Compare > Responsive */
+.details .responsive span {
+    width: 35px;
+    height: 35px;
+    margin: 0 1.5px;
+    background-color: #ddd;
+    background-position:center;
+    background-repeat: no-repeat;
+    display:inline-block;
+    float:left;
+    position: relative;
+}
+/* Table > Compare > Responsive > Display image */
+    .mobile {background-image: url(../images/mobile.png)}
+    .desktop {background-image: url(../images/desktop.png)}
+    .tablet {background-image: url(../images/tablet.png)}
+    [data-responsive="yes"] {background-color:#548235 !important; }
+    [data-responsive="yes"] span {background-color:#548235 !important; }
+   
+/* --------------------------------------------- */
+/* Table > Licence  */
+nav .parent li h3 {
+    margin: 17px 5px;
+    display: block;
+    font-size:14px;
+    font-weight: normal;
+    text-align: center;
+}
+/* Table > Details */
+nav .parent .info {
+    width: 980px;
+    margin:-3px auto;
+    height: 0;
+    background: rgba(228, 228, 228, .5);
+    transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -ms-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    display: block;
+    position: relative;
+    top: 20px;
+    opacity: 0;
+    visibility: hidden;
+    cursor: default;
+    border-top: 3px solid #900;
+    overflow: hidden;
+}
+nav .parent .info article {
+    width: 740px !important;
+    margin: auto;
+    float: left;
+}
+nav .parent .info blockquote {
+    color: #282828;
+    font-size: 16px;
+    margin: 10px 10px 5px auto;
+    padding: 5px;
+}
+nav .parent .info blockquote i {
+    padding:8px 15px;
+    float: left;
+    display: inline-block;
+    background: url('../images/quote.png') center no-repeat;
+}
+nav .parent .info.active {
+    top: 0px;
+    height: 150px;
+    visibility: visible;
+    opacity: 1;
+}
+nav .parent .info p {
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.3em;
+    padding:15px 10px;
+    text-transform: none;
+    width: auto;
+    margin: 0;
+}
+
+/* Table > Details > Buttons */
+nav .parent .info aside { 
+    float:right;
+    margin: auto;
+    width: 240px !important;
+    padding: 20px 0;
+}
+nav .parent .info aside a {
+    padding: 10px 15px;
+    width: 100px;
+    text-align: center;
+    margin:10px auto;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    color: #000;
+    display: block;
+    transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -ms-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+}
+nav .parent .info aside a:first-child {
+    background-image: url(../images/link.png);
+    background-position:15px center;
+}
+nav .parent .info aside a:last-child {
+    background-image: url(../images/git.png);
+    background-position:10px center;
+}
+nav .parent .info aside a[href="#none"] {
+    opacity: .5;
+    cursor: default;
+}
+nav .parent .info aside a[href="#none"]:hover {
+    background-color: #fff !important;
+}
+nav .parent .info aside a:hover {
+    background-color:AliceBlue;
+}
+/* Footer */
+footer ul {
+    list-style: none;
+    overflow: hidden;
+    float: left;
+    margin: 10px auto;
+    padding: 0;
+    width: 38px;
+    height: 38px;
+    transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -ms-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+}
+footer ul:hover {
+    width: 290px;
+}
+footer ul li {
+    color:#fff;
+    text-align: center;
+    float: left;
+    width: 32px;
+    height: 32px;
+    padding: 3px;
+    margin: auto 3px;
+    background-color: #ddd;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative; 
+    line-height: 35px;
+     transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -ms-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    margin-left: -10px;
+    visibility: hidden;
+    opacity: 0;
+}
+footer ul li a {
+    width: 38px;
+    height: 38px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+footer ul:hover li {
+    opacity: 1;
+    visibility: visible;
+    margin-left: 3px;
+}
+footer ul li:first-child { 
+    background: #900;
+    visibility: visible;
+    opacity: 1;
+    margin-left: 3px;
+}
+/* usablica logo */
+footer ul li:first-child span {
+    opacity: 0;
+    visibility: hidden;
+    width: 0px;
+    position: absolute;
+    left: 10px;
+    transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -ms-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+}
+footer ul li:first-child i {
+    width: 32px;
+    height: 32px;
+    float: right;
+    margin: auto;
+    display: inline-block;
+    background: url(../images/usablica.png) no-repeat center center;
+}
+/* let's have some fun with usablica logo and social links hover effects :) */
+footer ul:hover li:first-child {
+    width: 100px;
+}
+footer ul:hover li:first-child a {
+    width: 106px;
+}
+footer ul:hover li:first-child span {
+    opacity: 1;
+    visibility: visible;
+    width: 62px;
+    user-select: none;
+}
+footer ul li:nth-child(2) {
+    background-image: url(../images/tw.png);
+    transition-delay: .20s;
+    -webkit-transition-delay: .20s;
+    -moz-transition-delay: .20s;
+    -o-transition-delay: .20s;
+    -ms-transition-delay: .20s;
+}
+footer ul li:nth-child(3) {
+    background-image: url(../images/facebook.png);
+    transition-delay: .24s;
+    -webkit-transition-delay: .24s;
+    -moz-transition-delay: .24s;
+    -o-transition-delay: .24s;
+    -ms-transition-delay: .24s;
+}
+footer ul li:nth-child(4) {
+    background-image: url(../images/in.png);
+    transition-delay: .28s;
+    -webkit-transition-delay: .28s;
+    -moz-transition-delay: .28s;
+    -o-transition-delay: .28s;
+    -ms-transition-delay: .28s;
+}
+footer ul li:nth-child(5) {
+    background-image: url(../images/git.png);
+    transition-delay: .32s;
+    -webkit-transition-delay: .32s;
+    -moz-transition-delay: .32s;
+    -o-transition-delay: .32s;
+    -ms-transition-delay: .32s;
+}
+footer ul li:hover {
+    background-color: #aeaeae;
+}
+footer ul li:first-child:hover {
+    background-color: #900;
+}
+
