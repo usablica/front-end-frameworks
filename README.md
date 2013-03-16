@@ -280,7 +280,7 @@ Gumby is a responsive 960 grid CSS framework. The grid lets you lay out pages qu
 
 ## Flat-UI
 
-> Flat-UI is a comfortable and functional framework that simplifies the development of websites.  
+Flat-UI is a comfortable and functional framework that simplifies the development of websites.  
 
 **Responsive:** No
 
