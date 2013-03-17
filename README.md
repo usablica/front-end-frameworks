@@ -277,3 +277,11 @@ Gumby is a responsive 960 grid CSS framework. The grid lets you lay out pages qu
 **Responsive:** Yes  
 
 **Website:** http://gumbyframework.com
+
+## Unsemantic
+
+Unsemantic is a fluid grid system that is the successor to the [960 Grid System](http://960.gs/). It works in a similar way, but instead of being a set number of columns, it's entirely based on percentages.
+
+**Responsive:** Yes
+
+**Website:** http://unsemantic.com/
