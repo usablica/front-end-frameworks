@@ -1,4 +1,4 @@
-Front-end Frameworks v2.6
+﻿Front-end Frameworks v2.6
 ====================
 
 A collection of best front-end frameworks for faster and easier web development.  
@@ -23,6 +23,16 @@ Foundation 3 is built with Sass, a powerful CSS preprocessor, which allows us to
 **Responsive:** Yes  
 
 **Website:** http://foundation.zurb.com/
+
+## Cascade Framework
+
+> Putting back the C in CSS
+
+Cascade Framework is an ultra-flexible, fully cross-browser and feature rich front-end framework that puts you in control.
+
+**Responsive:** Yes  
+
+**Website:** http://jslegers.github.com/cascadeframework/
 
 ## 960 Grid System
 
