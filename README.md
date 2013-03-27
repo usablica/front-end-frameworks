@@ -293,5 +293,3 @@ RÖCSSTI is a very lightweight CSS base which includes accessibility notions, ty
 **Responsive:** Yes
 
 **Website:** http://rocssti.nicolas-hoffmann.net/
-
-**Github:** https://github.com/nico3333fr/ROCSSTI/blob/master/rocssti-en.css
