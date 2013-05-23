@@ -293,3 +293,93 @@ RÖCSSTI is a very lightweight CSS base which includes accessibility notions, ty
 **Responsive:** Yes
 
 **Website:** http://rocssti.nicolas-hoffmann.net/
+
+## Flat UI
+
+> PSD&HTML User Interface Kit
+
+Flat UI Free is made on the basis of Twitter Bootstrap in a stunning flat-style, and the kit also includes a PSD version for designers.Flat UI Free contains many basic and complex components which are great for designers to have at hand: buttons, inputs, button groups, selects, checkboxes and radio-buttons, tags, menus, progress bars and sliders, navigation elements and more.
+
+**Responsive:** Yes
+
+**Website:** http://designmodo.com/flat-free
+
+## Responsive Grid System
+
+> Spectacularly Easy Responsive Design
+
+It's a quick, easy & flexible way to create a responsive web site.
+
+**Responsive:** Yes
+
+**Website:** http://www.responsivegridsystem.com/
+
+## Responsive GS
+
+> Simple CSS framework for fast, intuitive development of responsive websites.
+
+Built using the 'Mobile First' approach, 'clearfix' for clearing floats, box-sizing: border-box for adding additional padding to elements, and weighs less then 1kb compressed. 
+
+**Responsive:** Yes
+
+**Website:** http://responsive.gs/
+
+## The Semantic GRID SYSTEM
+
+> Page layout for tomorrow.
+
+Runs on LESS, SCSS, or Stylus. It’s semantic; It can be either fixed or fluid; It’s responsive; It allows the number of columns, column widths and gutter widths to be modified instantly, directly in the style sheet. All without any .grid_x classes in your markup.
+
+**Responsive:** Yes
+
+**Website:** http://semantic.gs/
+
+## Golden Grid System (GGS)
+
+> A folding grid for responsive design.
+
+It use folding technique, inspired by the DIN paper system and Unigrid. GGS's 16 columns can be combined, or folded, into 8 columns for tablet-sized screens, and into 4 columns for mobile-sized ones. This way GGS can easily cover any screen sizes from 240 up to 2560 pixels.
+
+**Responsive:** Yes
+
+**Website:** http://goldengridsystem.com/
+
+## Titan Framework
+
+> A CSS framework for responsive web designs
+
+Titan Framework uses the same CSS classes as 960.gs. It can makes 960.gs design responsive in matter of seconds.
+
+**Responsive:** Yes
+
+**Website:** http://titanthemes.com/titan-framework-a-css-framework-for-responsive-web-designs
+
+## Ingrid
+
+> A fluid CSS layout system.
+
+Ingrid is a lightweight and fluid CSS layout system, whose main goal is to reduce the use of classes on individual units. In general, it is fluid, lightweight and extendable.
+
+**Responsive:** Yes
+
+**Website:** http://piira.se/projects/ingrid/
+
+## Workless
+
+> A clean & classy HTML5, CSS3 framework
+
+Standardizes CSS, improves usability and interaction, sets base typography to help vertical rhythm and readability and adds helper classes to style elements easily.
+
+**Responsive:** Yes
+
+**Website:** http://workless.ikreativ.com/
+
+## Frameless
+
+> Adapt column by column, not pixel by pixel.
+
+It's basiclly a responsive design idea, which suggest using small width column instead of pixel when adapting for different screen sizes. However it comes with LESS template, SCSS template, HTML starting point, Photoshop template and Grid overlay script. 
+
+**Responsive:** Yes
+
+**Website:** http://framelessgrid.com/
