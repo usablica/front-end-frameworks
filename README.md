@@ -333,3 +333,13 @@ Runs on LESS, SCSS, or Stylus. It’s semantic; It can be either fixed or fluid;
 **Responsive:** Yes
 
 **Website:** http://semantic.gs/
+
+## Golden Grid System (GGS)
+
+> A folding grid for responsive design.
+
+It use folding technique, inspired by the DIN paper system and Unigrid. GGS's 16 columns can be combined, or folded, into 8 columns for tablet-sized screens, and into 4 columns for mobile-sized ones. This way GGS can easily cover any screen sizes from 240 up to 2560 pixels.
+
+**Responsive:** Yes
+
+**Website:** http://goldengridsystem.com/
