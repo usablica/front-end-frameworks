@@ -293,3 +293,13 @@ RÖCSSTI is a very lightweight CSS base which includes accessibility notions, ty
 **Responsive:** Yes
 
 **Website:** http://rocssti.nicolas-hoffmann.net/
+
+## Flat UI
+
+> PSD&HTML User Interface Kit
+
+Flat UI Free is made on the basis of Twitter Bootstrap in a stunning flat-style, and the kit also includes a PSD version for designers.Flat UI Free contains many basic and complex components which are great for designers to have at hand: buttons, inputs, button groups, selects, checkboxes and radio-buttons, tags, menus, progress bars and sliders, navigation elements and more.
+
+**Responsive:** Yes
+
+**Website:** http://designmodo.com/flat-free
