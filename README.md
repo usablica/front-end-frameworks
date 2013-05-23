@@ -353,3 +353,13 @@ Titan Framework uses the same CSS classes as 960.gs. It can makes 960.gs design 
 **Responsive:** Yes
 
 **Website:** http://titanthemes.com/titan-framework-a-css-framework-for-responsive-web-designs
+
+## Ingrid
+
+> A fluid CSS layout system.
+
+Ingrid is a lightweight and fluid CSS layout system, whose main goal is to reduce the use of classes on individual units. In general, it is fluid, lightweight and extendable.
+
+**Responsive:** Yes
+
+**Website:** http://piira.se/projects/ingrid/
