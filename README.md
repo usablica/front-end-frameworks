@@ -363,3 +363,13 @@ Ingrid is a lightweight and fluid CSS layout system, whose main goal is to reduc
 **Responsive:** Yes
 
 **Website:** http://piira.se/projects/ingrid/
+
+## Workless
+
+> A clean & classy HTML5, CSS3 framework
+
+Standardizes CSS, improves usability and interaction, sets base typography to help vertical rhythm and readability and adds helper classes to style elements easily.
+
+**Responsive:** Yes
+
+**Website:** http://workless.ikreativ.com/
