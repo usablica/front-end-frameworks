@@ -313,3 +313,13 @@ It's a quick, easy & flexible way to create a responsive web site.
 **Responsive:** Yes
 
 **Website:** http://www.responsivegridsystem.com/
+
+## Responsive GS
+
+> Simple CSS framework for fast, intuitive development of responsive websites.
+
+Built using the 'Mobile First' approach, 'clearfix' for clearing floats, box-sizing: border-box for adding additional padding to elements, and weighs less then 1kb compressed. 
+
+**Responsive:** Yes
+
+**Website:** http://responsive.gs/
