@@ -343,3 +343,13 @@ It use folding technique, inspired by the DIN paper system and Unigrid. GGS's 16
 **Responsive:** Yes
 
 **Website:** http://goldengridsystem.com/
+
+## Titan Framework
+
+> A CSS framework for responsive web designs
+
+Titan Framework uses the same CSS classes as 960.gs. It can makes 960.gs design responsive in matter of seconds.
+
+**Responsive:** Yes
+
+**Website:** http://titanthemes.com/titan-framework-a-css-framework-for-responsive-web-designs
