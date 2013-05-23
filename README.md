@@ -373,3 +373,13 @@ Standardizes CSS, improves usability and interaction, sets base typography to he
 **Responsive:** Yes
 
 **Website:** http://workless.ikreativ.com/
+
+## Frameless
+
+> Adapt column by column, not pixel by pixel.
+
+It's basiclly a responsive design idea, which suggest using small width column instead of pixel when adapting for different screen sizes. However it comes with LESS template, SCSS template, HTML starting point, Photoshop template and Grid overlay script. 
+
+**Responsive:** Yes
+
+**Website:** http://framelessgrid.com/
