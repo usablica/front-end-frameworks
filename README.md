@@ -303,3 +303,13 @@ Flat UI Free is made on the basis of Twitter Bootstrap in a stunning flat-style,
 **Responsive:** Yes
 
 **Website:** http://designmodo.com/flat-free
+
+## Responsive Grid System
+
+> Spectacularly Easy Responsive Design
+
+It's a quick, easy & flexible way to create a responsive web site.
+
+**Responsive:** Yes
+
+**Website:** http://www.responsivegridsystem.com/
