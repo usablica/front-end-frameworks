@@ -288,11 +288,11 @@ Unsemantic is a fluid grid system that is the successor to the [960 Grid System]
 
 ## RÖCSSTI
 
-RÖCSSTI is a very lightweight CSS base which includes accessibility notions, typo settings, IE fixes, ect. It is the little brother of [KNACSS](http://www.knacss.com/).
+RÖCSSTI is a CSS micro-framework which includes accessibility notions, typo settings, IE fixes, reusable classes, ect. It is the little brother of [KNACSS](http://www.knacss.com/). It also has LESS and Sass versions.
 
 **Responsive:** Yes
 
-**Website:** http://rocssti.nicolas-hoffmann.net/
+**Website:** http://rocssti.nicolas-hoffmann.net/ & https://github.com/nico3333fr/ROCSSTI
 
 ## Pure
 
