@@ -311,3 +311,15 @@ RÖCSSTI is a CSS micro-framework which includes accessibility notions, typo set
 **Responsive:** Yes
 
 **Website:** http://purecss.io/
+
+## Ink
+
+> Ink is a set of tools for quick development of web interfaces.
+
+It offers a fluid and responsive grid, common interface elements, interactive components, a design-first approach with ease of use and simplicity at its core. Start integrating Ink in your projects and remove the hassle of building the basics, staying free to focus on what's important.
+
+**Responsive:** Yes
+
+**Website:** http://ink.sapo.pt/
+
+**Github:** http://github.com/sapo/ink/
