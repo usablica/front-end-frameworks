@@ -34,6 +34,17 @@ PureCSS is a collection of responsive 'drop-ins' built with - you guessed it! - 
 
 **Website:** http://purecss.io/
 
+## Responsive Boilerplate
+
+> A lightweight (3kb) cross browser grid system, elegant & minimalist, made with only three main classes and 12 columns. 
+Build with mobile first in mind, fits any screen size, pre-packed with some extra css helpers for mobile devices.
+
+Doesn't consist of a vast amount of complex classes, spans and styles for everything even those styles that you never use. Only with 3 basic classes.
+
+**Responsive:** Yes  
+
+**Website:** http://www.responsiveboilerplate.com
+
 ## 960 Grid System
 
 > Simple grid system
