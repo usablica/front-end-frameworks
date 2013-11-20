@@ -6,6 +6,22 @@ A collection of best front-end frameworks for faster and easier web development.
 You can **Compare** all front-end frameworks here: http://usablica.github.com/front-end-frameworks/compare.html
 
 
+## Cascade Framework
+
+> Powerful OOCSS front-end framework optimised for performance and flexibility.
+
+**Responsive:** Yes
+
+**Website:** http://cascade-framework.com/
+
+## Cascade Framework Light
+
+> An even more lightweight version of Cascade Framework, containing just the bare essentials.
+
+**Responsive:** Yes
+
+**Website:** https://github.com/jslegers/cascadeframeworklight/
+
 ## Twitter Bootstrap
 
 > Sleek, intuitive, and powerful front-end framework for faster and easier web development.
