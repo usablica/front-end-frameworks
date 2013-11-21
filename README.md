@@ -339,3 +339,15 @@ It offers a fluid and responsive grid, common interface elements, interactive co
 **Website:** http://ink.sapo.pt/
 
 **Github:** http://github.com/sapo/ink/
+
+## Semantic UI
+
+> UI is the vocabulary of the web.
+
+Semantic empowers designers and developers by creating a language for sharing UI.
+
+**Responsive:** Yes
+
+**Website:** http://semantic-ui.com/
+
+**Github:** https://github.com/jlukic/Semantic-UI
