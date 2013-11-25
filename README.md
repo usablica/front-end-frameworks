@@ -46,7 +46,7 @@ Foundation is built with Sass, a powerful CSS preprocessor, which allows us to m
 
 PureCSS is a collection of responsive 'drop-ins' built with - you guessed it! - pure CSS! The PureCSS website also has a skin builder on their website, so you're restricted by default colors no more.
 
-**Responsive:** Yes  
+**Responsive:** Yes
 
 **Website:** http://purecss.io/
 
@@ -351,3 +351,17 @@ Semantic empowers designers and developers by creating a language for sharing UI
 **Website:** http://semantic-ui.com/
 
 **Github:** https://github.com/jlukic/Semantic-UI
+
+## Kickoff
+
+> A lightweight front-end framework for creating scalable, responsive sites
+
+Kickoff is an actively maintained front-end framework, created by Zander Martineau and Ashley Nolan.
+
+The framework is not meant to be too prescriptive - we don't want to force developers into a certain coding style - and so can be used as a starting point for any type of project.
+
+**Responsive:** Yes
+
+**Website:** http://tmwagency.github.io/kickoff/
+
+**Github:** https://github.com/tmwagency/kickoff
