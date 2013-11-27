@@ -365,3 +365,13 @@ The framework is not meant to be too prescriptive - we don't want to force devel
 **Website:** http://tmwagency.github.io/kickoff/
 
 **Github:** https://github.com/tmwagency/kickoff
+
+## Ribs
+
+> The evolution of Skeleton: A Beautiful Boilerplate for Responsive, Mobile-Friendly Development.
+
+Ribs is a modernised, maintained and feature rich fork of the original Skeleton framework.
+
+
+**Responsive:** Yes
+**Website:** https://github.com/nickpack/Ribs
