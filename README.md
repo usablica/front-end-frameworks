@@ -28,7 +28,7 @@ You can **Compare** all front-end frameworks here: http://usablica.github.com/fr
 
 **Responsive:** Yes
 
-**Website:** http://twitter.github.com/bootstrap/
+**Website:** http://getbootstrap.com/
 
 ## Foundation
 
