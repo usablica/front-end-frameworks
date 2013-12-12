@@ -387,3 +387,15 @@ Layers CSS is aimed for practical use and comes with zero bullshit.
 **Website:** http://eiskis.net/layers/
 
 **Bitbucket:** https://bitbucket.org/Eiskis/layers-css/src/tip/source/layers/
+
+## Inuit CSS
+
+> inuit.css – a powerful, scalable, Sass-based, BEM, OOCSS framework.
+
+inuit.css provides little-to-no design which means no undoing things, no deleting CSS and no adhering to other peoples’ design decisions.
+
+**Responsive:** Yes
+
+**Website:** http://inuitcss.com/
+
+**Github:** https://github.com/csswizardry/inuit.css
