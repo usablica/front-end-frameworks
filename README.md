@@ -375,3 +375,15 @@ Ribs is a modernised, maintained and feature rich fork of the original Skeleton 
 
 **Responsive:** Yes
 **Website:** https://github.com/nickpack/Ribs
+
+## Layers
+
+> Lightweight. Unobtrusive. Style-agnostic. Build your look on the web, not Twitter's – and build it fluid.
+
+Layers CSS is aimed for practical use and comes with zero bullshit.
+
+**Responsive:** Yes
+
+**Website:** http://eiskis.net/layers/
+
+**Bitbucket:** https://bitbucket.org/Eiskis/layers-css/src/tip/source/layers/
