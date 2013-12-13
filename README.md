@@ -399,3 +399,15 @@ simple and flexible web framework to create elegant and modern web applications 
 **Website:** http://aozora.github.io/bootmetro/
 
 **Github:** https://github.com/aozora/bootmetro
+
+## StackLayout
+
+> A flexible width, component based CSS layout system
+
+StackLayout makes it incredibly easy to use semantic class names for particular areas of your site, such as the main navigation or a thumbnail gallery, or for the entire site as part of your deployment process.
+
+**Responsive:** Yes
+
+**Website:** http://www.stacklayout.com/
+
+**Github:** https://github.com/camslice/StackLayout
