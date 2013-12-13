@@ -388,14 +388,14 @@ Layers CSS is aimed for practical use and comes with zero bullshit.
 
 **Bitbucket:** https://bitbucket.org/Eiskis/layers-css/src/tip/source/layers/
 
-## Inuit CSS
+## bootmetro
 
-> inuit.css – a powerful, scalable, Sass-based, BEM, OOCSS framework.
+> metro style web framework
 
-inuit.css provides little-to-no design which means no undoing things, no deleting CSS and no adhering to other peoples’ design decisions.
+simple and flexible web framework to create elegant and modern web applications with the same look & feel of Windows 8.
 
 **Responsive:** Yes
 
-**Website:** http://inuitcss.com/
+**Website:** http://aozora.github.io/bootmetro/
 
-**Github:** https://github.com/csswizardry/inuit.css
+**Github:** https://github.com/aozora/bootmetro
