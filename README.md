@@ -276,14 +276,6 @@ Malo is ultra small css library for building web sites. It is meant to be struct
 
 **Website:** http://code.google.com/p/malo/
 
-## Pure
-
-> A set of small, responsive CSS modules that you can use in every web project.
-
-**Responsive:** Yes
-
-**Website:** http://purecss.io/
-
 ## PureCSS
 
 > A set of small, responsive CSS modules that you can use in every web project, built by the YUI team at Yahoo!.
