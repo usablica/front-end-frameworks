@@ -411,3 +411,15 @@ StackLayout makes it incredibly easy to use semantic class names for particular 
 **Website:** http://www.stacklayout.com/
 
 **Github:** https://github.com/camslice/StackLayout
+
+## IVORY Framework
+
+> imple, Flexible, Powerful
+
+Responsive front-end web framework. Makes your front-end development faster and easier. Takes you all theway from 1200PX on down to 320PX.
+
+**Responsive:** Yes
+
+**Website:** http://weice.in/ivory/
+
+**Github:** https://github.com/kanthvallampati/IVORY
