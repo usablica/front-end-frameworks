@@ -76,7 +76,7 @@ A responsive framework with a fractional, semantic grid system built with Sass &
 
 **Responsive:** Yes
 
-**Website:** http://groundwork.sidereel.com/
+**Website:** http://groundworkcss.github.io/
 
 ## 99lime HTML KickStart
 
