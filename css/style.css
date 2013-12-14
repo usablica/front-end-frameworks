@@ -156,8 +156,8 @@ section p:last-child {
 }
 
 #search:focus {
-    outline: none;
-    border-color: #900;
+    outline: auto 5px #900;
+    outline-offset: -2px;
 }
 
 /* Table */ /* We should use nav and ul li for collapsing details */
