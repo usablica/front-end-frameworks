@@ -141,12 +141,11 @@ section p:last-child {
     top: 50%;
 	margin-top: -7px;
 }
-
+/* Search */
 #noSearch {
     display: none;
     text-align: center;
 }
-
 #search {
     width: 100%;
     margin-top: 20px;
@@ -154,12 +153,10 @@ section p:last-child {
     line-height: 25px;
     font-family: 'Droid Sans';
 }
-
 #search:focus {
     outline: auto 5px #900;
     outline-offset: -2px;
 }
-
 /* Table */ /* We should use nav and ul li for collapsing details */
 nav {
     width: 980px;
