@@ -43,8 +43,14 @@
             </div>
         </section>
         
-        <!-- That's it ! compartion table :) -->
         <section>
+            <div class="search">
+                <input type="text" placeholder="Search Frontend Frameworks" id="search">
+            </div>
+        </section>
+
+        <!-- That's it ! compartion table :) -->
+        <section id="comparisonTable">
             <nav>
             <blockquote class="guide">Browser version " + " means latest version .</blockquote>
             	<div class="parent">
@@ -1788,6 +1794,9 @@
                 </div>
             </div>
 
+            <div class="parent" id="noSearch">
+                There were no search results matching <span></span>
+            </div>
             </nav>
         </section>
 
@@ -1824,6 +1833,7 @@
 
         <!-- Scripts -->
         <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/search.js"></script>
         <script>
             $('nav .parent ul').on('click', function (e) {
                 $(this).next('.info').toggleClass('active')
