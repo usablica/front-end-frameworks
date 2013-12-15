@@ -142,19 +142,24 @@ section p:last-child {
 	margin-top: -7px;
 }
 /* Search */
+/* Search */
 #noSearch {
     display: none;
     text-align: center;
 }
 #search {
-    width: 100%;
+    width: 957px;
     margin-top: 20px;
     font-size: 16px;
     line-height: 25px;
     font-family: 'Droid Sans';
+    outline: none;
+    border: 2px solid #c0c0c0;
+    padding: 10px;
+    border-radius: 0;
 }
 #search:focus {
-    outline: auto 5px #900;
+    outline: none;
     outline-offset: -2px;
 }
 /* Table */ /* We should use nav and ul li for collapsing details */
