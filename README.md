@@ -374,6 +374,7 @@ Ribs is a modernised, maintained and feature rich fork of the original Skeleton 
 
 
 **Responsive:** Yes
+
 **Website:** https://github.com/nickpack/Ribs
 
 ## Layers
@@ -387,3 +388,15 @@ Layers CSS is aimed for practical use and comes with zero bullshit.
 **Website:** http://eiskis.net/layers/
 
 **Bitbucket:** https://bitbucket.org/Eiskis/layers-css/src/tip/source/layers/
+
+## Susy
+
+> Your markup. Your design. Our math. 
+
+The web is a responsive place, from your lithe & lively development process to your end-user's super-tablet-multi-magic-lap-phone. You need grids that are powerful yet custom, reliable yet responsive.
+
+**Responsive:** Yes
+
+**Website:** http://susy.oddbird.net/
+
+**Github:** https://github.com/ericam/susy/
