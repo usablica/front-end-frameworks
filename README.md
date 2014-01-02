@@ -400,3 +400,15 @@ The web is a responsive place, from your lithe & lively development process to y
 **Website:** http://susy.oddbird.net/
 
 **Github:** https://github.com/ericam/susy/
+
+## Bijou
+
+> A beautiful CSS framework under 2kb
+
+A small, yet beautiful CSS framework that weighs in under 2kb.
+
+**Responsive:** Yes
+
+**Website:** http://andhart.github.io/bijou
+
+**Github:** https://github.com/andhart/bijou
