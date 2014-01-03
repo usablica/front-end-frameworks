@@ -400,3 +400,15 @@ The web is a responsive place, from your lithe & lively development process to y
 **Website:** http://susy.oddbird.net/
 
 **Github:** https://github.com/ericam/susy/
+
+## Inuit.css
+
+> A powerful, scalable, Sass-based, [BEM](http://bem.info/), OOCSS framework.
+
+Inuit is a Sass based, Object Oriented framework that is full of objects and abstractions. inuit.css provides little-to-no design which means no undoing things, no deleting CSS and no adhering to other peoples’ design decisions.
+
+**Responsive:** Yes
+
+**Website:** http://inuitcss.com/
+
+**Github:** https://github.com/csswizardry/inuit.css/
