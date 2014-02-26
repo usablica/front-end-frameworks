@@ -22,7 +22,7 @@ You can **Compare** all front-end frameworks here: http://usablica.github.com/fr
 
 **Website:** https://github.com/jslegers/cascadeframeworklight/
 
-## Twitter Bootstrap
+## Bootstrap
 
 > Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
@@ -290,7 +290,7 @@ FEM CSS Framework is a 960px width + 12 column grid system + CSS common styles, 
 
 ## Helium
 
-Helium is a framework for rapid prototyping and production-ready development. In many ways it's similar to both Twitter Bootstrap and ZURB Foundation - in fact, it uses bits of their code. Unlike either of these two frameworks, however, Helium is designed to be much more lightweight and easier to tinker with.
+Helium is a framework for rapid prototyping and production-ready development. In many ways it's similar to both Bootstrap and ZURB Foundation - in fact, it uses bits of their code. Unlike either of these two frameworks, however, Helium is designed to be much more lightweight and easier to tinker with.
 
 **Responsive:** Yes
 
