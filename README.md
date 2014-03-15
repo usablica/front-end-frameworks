@@ -5,6 +5,16 @@ A collection of best front-end frameworks for faster and easier web development.
 
 You can **Compare** all front-end frameworks here: http://usablica.github.com/front-end-frameworks/compare.html
 
+## Formee Framework for forms
+>  Formee is nothing but a framework to help you develop and customize web based forms.
+>  Crossbrowser: Don't worry about having your form being rendered differently in the major browsers.
+>  Flexible:It fits into your project, it's flexible enough to adapt to the width you have available for the form.
+>  Customizable:You can easily change between a stylish form or a minimalist one. It comes with the basic needed for you to put your touch in it.
+
+**Responsive:** No
+
+**Website:** http://www.formee.org/
+
 
 ## Cascade Framework
 
