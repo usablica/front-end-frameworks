@@ -338,6 +338,18 @@ RÖCSSTI is a CSS micro-framework which includes accessibility notions, typo set
 
 **Website:** http://purecss.io/
 
+## Jeet
+
+> A CSS Grid System for Humans
+
+Jeet allows you to express your page grid the same way a human would describe it. No more needlessly nesting elements. No more rigid twelve column rules. Enjoy building faster with less code, and more flexibility with Jeet.
+
+**Responsive:** Yes
+
+**Website:** http://jeet.gs/
+
+**Github:** http://github.com/sapo/ink/
+
 ## Ink
 
 > Ink is a set of tools for quick development of web interfaces.
@@ -401,7 +413,7 @@ Layers CSS is aimed for practical use and comes with zero bullshit.
 
 ## Susy
 
-> Your markup. Your design. Our math. 
+> Your markup. Your design. Our math.
 
 The web is a responsive place, from your lithe & lively development process to your end-user's super-tablet-multi-magic-lap-phone. You need grids that are powerful yet custom, reliable yet responsive.
 
