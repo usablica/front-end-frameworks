@@ -5,6 +5,14 @@ A collection of best front-end frameworks for faster and easier web development.
 
 You can **Compare** all front-end frameworks here: http://usablica.github.com/front-end-frameworks/compare.html
 
+## IceCream
+
+> Simple and light responsive grid system
+
+**Responsive:** Yes
+
+**Website:** http://html5-ninja.com/icecream
+
 ## Formee Framework for forms
 >  Formee is nothing but a framework to help you develop and customize web based forms.
 >  Crossbrowser: Don't worry about having your form being rendered differently in the major browsers.
