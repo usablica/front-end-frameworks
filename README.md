@@ -40,6 +40,14 @@ You can **Compare** all front-end frameworks here: http://usablica.github.com/fr
 
 **Website:** https://github.com/jslegers/cascadeframeworklight/
 
+## Concise
+
+> Lightweight, highly customizable, scalable, Sass-based, OOCSS framework. LESS and Stylus ports also available.
+
+**Responsive:** Yes
+
+**Website:** http://concisecss.com/
+
 ## Bootstrap
 
 > Sleek, intuitive, and powerful front-end framework for faster and easier web development.
