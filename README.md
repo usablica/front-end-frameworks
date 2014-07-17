@@ -356,6 +356,7 @@ Pure is ridiculously tiny. The entire set of modules clocks in at 4.5KB* minifie
 
 **Website:** http://purecss.io/
 
+<<<<<<< HEAD
 **Github:** https://github.com/yui/pure/
 
 ## Crumpet
@@ -369,6 +370,19 @@ Everything is straight forward, all of the code is commented and gives you instr
 **Website:** https://github.com/AdamMarsBar/Crumpet
 
 **Github:** https://github.com/yui/pure/
+=======
+## Jeet
+
+> A CSS Grid System for Humans
+
+Jeet allows you to express your page grid the same way a human would describe it. No more needlessly nesting elements. No more rigid twelve column rules. Enjoy building faster with less code, and more flexibility with Jeet.
+
+**Responsive:** Yes
+
+**Website:** http://jeet.gs/
+
+**Github:** http://github.com/sapo/ink/
+>>>>>>> fac5d5860e555e429d78f332aeaca38df30a7c98
 
 ## Ink
 
