@@ -457,6 +457,7 @@ The web is a responsive place, from your lithe & lively development process to y
 
 **Github:** https://github.com/ericam/susy/
 
+<<<<<<< HEAD
 ## inuit.css
 
 > A powerful, scalable, Sass-based, [BEM](http://bem.info/), OOCSS framework.
@@ -468,3 +469,16 @@ inuit.css is a Sass based, Object Oriented framework that is full of objects and
 **Website:** http://inuitcss.com/
 
 **Github:** https://github.com/csswizardry/inuit.css/
+=======
+## Bijou
+
+> A beautiful CSS framework under 2kb
+
+A small, yet beautiful CSS framework that weighs in under 2kb.
+
+**Responsive:** Yes
+
+**Website:** http://andhart.github.io/bijou
+
+**Github:** https://github.com/andhart/bijou
+>>>>>>> f137df9e14d0b4b8ffd09f8cfddfc0b487d5e823
