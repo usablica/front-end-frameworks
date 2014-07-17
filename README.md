@@ -445,6 +445,7 @@ Layers CSS is aimed for practical use and comes with zero bullshit.
 
 **Bitbucket:** https://bitbucket.org/Eiskis/layers-css/src/tip/source/layers/
 
+<<<<<<< HEAD
 ## Susy
 
 > Your markup. Your design. Our math.
@@ -482,3 +483,40 @@ A small, yet beautiful CSS framework that weighs in under 2kb.
 
 **Github:** https://github.com/andhart/bijou
 >>>>>>> f137df9e14d0b4b8ffd09f8cfddfc0b487d5e823
+=======
+## bootmetro
+
+> metro style web framework
+
+simple and flexible web framework to create elegant and modern web applications with the same look & feel of Windows 8.
+
+**Responsive:** Yes
+
+**Website:** http://aozora.github.io/bootmetro/
+
+**Github:** https://github.com/aozora/bootmetro
+
+## StackLayout
+
+> A flexible width, component based CSS layout system
+
+StackLayout makes it incredibly easy to use semantic class names for particular areas of your site, such as the main navigation or a thumbnail gallery, or for the entire site as part of your deployment process.
+
+**Responsive:** Yes
+
+**Website:** http://www.stacklayout.com/
+
+**Github:** https://github.com/camslice/StackLayout
+
+## IVORY Framework
+
+> imple, Flexible, Powerful
+
+Responsive front-end web framework. Makes your front-end development faster and easier. Takes you all theway from 1200PX on down to 320PX.
+
+**Responsive:** Yes
+
+**Website:** http://weice.in/ivory/
+
+**Github:** https://github.com/kanthvallampati/IVORY
+>>>>>>> 4e66df5ef0eac1e308bad0829616e87c6dd84dfd
