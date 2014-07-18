@@ -40,7 +40,6 @@ With HTML5 support coming so fast, with the tiniest of hacks we are able to use 
 
 **Website:** http://52framework.com/
 
-<<<<<<< HEAD
 ## Concise
 
 > Lightweight, highly customizable, scalable, Sass-based, OOCSS framework. LESS and Stylus ports also available.
@@ -50,9 +49,14 @@ With HTML5 support coming so fast, with the tiniest of hacks we are able to use 
 **Website:** http://concisecss.com/
 
 ## Bootstrap
-=======
+
+> Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+
+**Responsive:** Yes
+
+**Website:** http://getbootstrap.com/
+
 ## 960 Grid System
->>>>>>> 19c94ddeba4bee39a147ca0d3ef491f3ddad5964
 
 > Simple grid system
 
@@ -104,11 +108,7 @@ A full featured and beautiful CSS framework which originally combined the best o
 
 As one of the original authors of Blueprint CSS I’ve decided to re-factor my ideas into a stripped down framework which provides the bare essentials to begin any project. This framework will be lite and strive not to suggest un-semantic naming conventions. You’re the designer and your craft is important.
 
-<<<<<<< HEAD
-**Website:** http://groundworkcss.github.io/
-=======
 **Responsive:** No
->>>>>>> 19c94ddeba4bee39a147ca0d3ef491f3ddad5964
 
 **Website:** http://code.google.com/p/css-boilerplate/
 
@@ -314,11 +314,7 @@ Malo is ultra small css library for building web sites. It is meant to be struct
 
 > A set of small, responsive CSS modules that you can use in every web project, built by the YUI team at Yahoo!.
 
-<<<<<<< HEAD
-Helium is a framework for rapid prototyping and production-ready development. In many ways it's similar to both Bootstrap and ZURB Foundation - in fact, it uses bits of their code. Unlike either of these two frameworks, however, Helium is designed to be much more lightweight and easier to tinker with.
-=======
 PureCSS is a collection of responsive 'drop-ins' built with - you guessed it! - pure CSS! The PureCSS website also has a skin builder on their website, so you're restricted by default colors no more.
->>>>>>> 19c94ddeba4bee39a147ca0d3ef491f3ddad5964
 
 **Responsive:** Yes
 
@@ -354,9 +350,7 @@ Pure is ridiculously tiny. The entire set of modules clocks in at 4.5KB* minifie
 
 **Website:** http://semantic-ui.com/
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-**Github:** https://github.com/yui/pure/
+**Github:** https://github.com/jlukic/Semantic-UI
 
 ## Crumpet
 
@@ -368,8 +362,7 @@ Everything is straight forward, all of the code is commented and gives you instr
 
 **Website:** https://github.com/AdamMarsBar/Crumpet
 
-**Github:** https://github.com/yui/pure/
-=======
+
 ## Jeet
 
 > A CSS Grid System for Humans
@@ -379,14 +372,6 @@ Jeet allows you to express your page grid the same way a human would describe it
 **Responsive:** Yes
 
 **Website:** http://jeet.gs/
-
-**Github:** http://github.com/sapo/ink/
->>>>>>> fac5d5860e555e429d78f332aeaca38df30a7c98
-
-## Ink
-=======
-**Github:** https://github.com/jlukic/Semantic-UI
->>>>>>> 19c94ddeba4bee39a147ca0d3ef491f3ddad5964
 
 ## Skeleton
 
@@ -405,14 +390,6 @@ The Golden Grid is a web grid system. It 's a product of the search for the perf
 **Responsive:** No
 
 **Website:** http://code.google.com/p/the-golden-grid/
-
-## Twitter Bootstrap
-
-> Sleek, intuitive, and powerful front-end framework for faster and easier web development.
-
-**Responsive:** Yes
-
-**Website:** http://getbootstrap.com/
 
 ## Unsemantic
 
@@ -439,11 +416,6 @@ xCSS bases on CSS and empowers a straightforward and object-oriented workflow wh
 YAML is an (X)HTML/CSS framework for creating modern and flexible floated layouts. The structure is extremely versatile in its programming and absolutely accessible for end users.
 
 **Responsive:** Yes
-<<<<<<< HEAD
-
-**Website:** https://github.com/nickpack/Ribs
-=======
->>>>>>> 19c94ddeba4bee39a147ca0d3ef491f3ddad5964
 
 **Website:** http://www.yaml.de/
 
@@ -455,10 +427,8 @@ The foundational YUI CSS is an extremely lightweight layer of responsive CSS for
 
 **Responsive:** Yes
 
-<<<<<<< HEAD
-**Bitbucket:** https://bitbucket.org/Eiskis/layers-css/src/tip/source/layers/
+**Website:** http://yuilibrary.com/
 
-<<<<<<< HEAD
 ## Susy
 
 > Your markup. Your design. Our math.
@@ -471,7 +441,6 @@ The web is a responsive place, from your lithe & lively development process to y
 
 **Github:** https://github.com/ericam/susy/
 
-<<<<<<< HEAD
 ## inuit.css
 
 > A powerful, scalable, Sass-based, [BEM](http://bem.info/), OOCSS framework.
@@ -483,7 +452,7 @@ inuit.css is a Sass based, Object Oriented framework that is full of objects and
 **Website:** http://inuitcss.com/
 
 **Github:** https://github.com/csswizardry/inuit.css/
-=======
+
 ## Bijou
 
 > A beautiful CSS framework under 2kb
@@ -495,8 +464,7 @@ A small, yet beautiful CSS framework that weighs in under 2kb.
 **Website:** http://andhart.github.io/bijou
 
 **Github:** https://github.com/andhart/bijou
->>>>>>> f137df9e14d0b4b8ffd09f8cfddfc0b487d5e823
-=======
+
 ## bootmetro
 
 > metro style web framework
@@ -532,7 +500,3 @@ Responsive front-end web framework. Makes your front-end development faster and 
 **Website:** http://weice.in/ivory/
 
 **Github:** https://github.com/kanthvallampati/IVORY
->>>>>>> 4e66df5ef0eac1e308bad0829616e87c6dd84dfd
-=======
-**Website:** http://yuilibrary.com/
->>>>>>> 19c94ddeba4bee39a147ca0d3ef491f3ddad5964
