@@ -339,3 +339,13 @@ It offers a fluid and responsive grid, common interface elements, interactive co
 **Website:** http://ink.sapo.pt/
 
 **Github:** http://github.com/sapo/ink/
+
+## Ribs
+
+> The evolution of Skeleton: A Beautiful Boilerplate for Responsive, Mobile-Friendly Development.
+
+Ribs is a modernised, maintained and feature rich fork of the original Skeleton framework.
+
+**Responsive:** Yes
+
+**Website:** https://github.com/nickpack/Ribs
