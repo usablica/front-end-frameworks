@@ -602,3 +602,17 @@ Responsive front-end web framework. Makes your front-end development faster and 
 **Website:** http://weice.in/ivory/
 
 **Github:** https://github.com/kanthvallampati/IVORY
+
+## suit.css
+
+> Style tools for UI components.
+
+SUIT CSS is a reliable and testable styling methodology for component-based UI development. A collection of CSS packages and build tools are available as modules. SUIT CSS plays well with React, Ember, Angular, and other component-based approaches to UI development.
+
+**Responsive:** Yes
+
+**BEM:** Yes
+
+**Website:** http://suitcss.github.io/
+
+**Github:** https://github.com/suitcss
