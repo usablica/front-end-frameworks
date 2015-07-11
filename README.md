@@ -500,3 +500,39 @@ Responsive front-end web framework. Makes your front-end development faster and 
 **Website:** http://weice.in/ivory/
 
 **Github:** https://github.com/kanthvallampati/IVORY
+
+## Polymer
+
+> A library for creating Web Components based on Material Design
+
+Polymer is a library for creating Web Components, which are a set of W3C standards and upcoming browser APIs for defining your own custom HTML elements. With the help of polyfills and sugar, it can create these custom elements and bring Web Component support to browsers that don’t play nice with the standard just yet.
+
+**Responsive:** Yes
+
+**Website:** https://www.polymer-project.org
+
+**Github:** https://github.com/Polymer/polymer
+
+## Material Design Lite
+
+> An implementation of Material Design components in vanilla CSS, JS, and HTML
+
+Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries. Optimized for cross-device use, gracefully degrades in older browsers, and offers an experience that is accessible from the get-go.
+
+**Responsive:** Yes
+
+**Website:** http://www.getmdl.io
+
+**Github:** https://github.com/google/material-design-lite
+
+## Materialize
+
+> A modern responsive front-end framework based on Material Design
+
+Materialize simplifies life for developers and the users they serve.
+
+**Responsive:** Yes
+
+**Website:** http://materializecss.com
+
+**Github:** https://github.com/Dogfalo/materialize
