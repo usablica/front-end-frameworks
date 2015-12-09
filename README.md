@@ -500,3 +500,11 @@ Responsive front-end web framework. Makes your front-end development faster and 
 **Website:** http://weice.in/ivory/
 
 **Github:** https://github.com/kanthvallampati/IVORY
+
+## minigrid
+
+> Minimal 2kb zero dependency cascading grid layout
+
+**Responsive:** Yes
+
+**Github:** https://github.com/henriquea/minigrid
