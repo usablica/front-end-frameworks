@@ -5,6 +5,14 @@ A collection of best front-end frameworks for faster and easier web development.
 
 You can **Compare** all front-end frameworks here: http://usablica.github.com/front-end-frameworks/compare.html
 
+## flexible.gs
+
+>  Flexible Grid System is a Responsive CSS Framework.
+
+**Responsive:** Yes
+
+**Website:** http://flexible.gs/
+
 ## IceCream
 
 > Simple and light responsive grid system
@@ -180,7 +188,7 @@ FEM CSS Framework is a 960px width + 12 column grid system + CSS common styles, 
 
 **Website:** http://flaminwork.com/
 
-## Fluid 
+## Fluid
 
 The Fluid 960 Grid System templates have been built upon the work of Nathan Smith and his 960 Grid System using effects from the MooTools and jQuery JavaScript libraries.
 
