@@ -541,7 +541,7 @@ inuit.css is a Sass based, Object Oriented framework that is full of objects and
 
 **Responsive:** Yes
 
-**BEM:** No
+**BEM:** Yes
 
 **Website:** http://inuitcss.com/
 
