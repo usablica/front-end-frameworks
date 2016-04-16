@@ -500,3 +500,18 @@ Responsive front-end web framework. Makes your front-end development faster and 
 **Website:** http://weice.in/ivory/
 
 **Github:** https://github.com/kanthvallampati/IVORY
+
+
+## Spectre.css
+
+> Lightweight, Responsive and Modern 
+
+A lightweight, responsive and modern CSS framework for faster and extensible development.
+
+**Responsive** Yes
+
+**Website** http://picturepan2.github.io/spectre/?utm_source=next.36kr.com
+
+**Github:** https://github.com/picturepan2/spectre.git
+
+
