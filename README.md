@@ -310,6 +310,15 @@ Malo is ultra small css library for building web sites. It is meant to be struct
 
 **Website:** http://code.google.com/p/malo/
 
+## Materialize CSS
+
+> Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology. 
+  Google's goal is to develop a system of design that allows for a unified user experience across all their products on any platform.
+
+**Responsive:** Yes
+
+** Website:** http://materializecss.com
+
 ## PureCSS
 
 > A set of small, responsive CSS modules that you can use in every web project, built by the YUI team at Yahoo!.
