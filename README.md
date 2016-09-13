@@ -180,7 +180,7 @@ FEM CSS Framework is a 960px width + 12 column grid system + CSS common styles, 
 
 **Website:** http://flaminwork.com/
 
-## Fluid 
+## Fluid
 
 The Fluid 960 Grid System templates have been built upon the work of Nathan Smith and his 960 Grid System using effects from the MooTools and jQuery JavaScript libraries.
 
@@ -509,3 +509,15 @@ Responsive front-end web framework. Makes your front-end development faster and 
 **Website:** http://weice.in/ivory/
 
 **Github:** https://github.com/kanthvallampati/IVORY
+
+## Taiga Boilerplate
+
+> Taiga, a head start for UI engineers
+
+Taiga Boilerplate is a small HTML/SASS framework for starting a new web project. It is mobile-first with a semantic SASS grid and based on the principles of SMACSS and BEM.
+
+**Responsive:** Yes
+
+**Website:** http://taigaboilerplate.com
+
+**Github:** https://github.com/studiowolf/taiga-boilerplate
