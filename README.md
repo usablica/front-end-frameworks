@@ -180,7 +180,7 @@ FEM CSS Framework is a 960px width + 12 column grid system + CSS common styles, 
 
 **Website:** http://flaminwork.com/
 
-## Fluid 
+## Fluid
 
 The Fluid 960 Grid System templates have been built upon the work of Nathan Smith and his 960 Grid System using effects from the MooTools and jQuery JavaScript libraries.
 
@@ -254,9 +254,9 @@ The framework is not meant to be too prescriptive - we don't want to force devel
 
 **Responsive:** Yes
 
-**Website:** http://tmwagency.github.io/kickoff/
+**Website:** http://trykickoff.github.io/
 
-**Github:** https://github.com/tmwagency/kickoff
+**Github:** https://github.com/trykickoff/kickoff
 
 ## Kube
 
