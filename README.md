@@ -5,6 +5,16 @@ A collection of best front-end frameworks for faster and easier web development.
 
 You can **Compare** all front-end frameworks here: http://usablica.github.com/front-end-frameworks/compare.html
 
+
+## Milligram
+
+> Milligram provides a minimal setup of styles for a fast and clean starting point. Just it! Only 2kb gzipped! It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code.
+
+**Responsive:** Yes
+
+**Website:** http://milligram.github.io
+
+
 ## IceCream
 
 > Simple and light responsive grid system
