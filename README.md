@@ -319,6 +319,16 @@ Malo is ultra small css library for building web sites. It is meant to be struct
 
 ** Website:** http://materializecss.com
 
+## mini.css
+
+> A minimal, responsive, style-agnostic CSS framework!
+
+mini.css tries to provide as much functionality as possible in under 7KB gzipped, while mainting a mobile-friendly approach and allowing you to customize it any way you want. 
+
+**Responsive:** Yes
+
+**Website:** https://chalarangelo.github.io/mini.css/
+
 ## PureCSS
 
 > A set of small, responsive CSS modules that you can use in every web project, built by the YUI team at Yahoo!.
