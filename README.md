@@ -172,6 +172,18 @@ FEM CSS Framework is a 960px width + 12 column grid system + CSS common styles, 
 
 **Website:** http://www.frontendmatters.com/projects/fem-css-framework/
 
+
+## Flat UI
+
+> PSD&HTML User Interface Kit
+
+Flat UI Free is made on the basis of Twitter Bootstrap in a stunning flat-style, and the kit also includes a PSD version for designers.Flat UI Free contains many basic and complex components which are great for designers to have at hand: buttons, inputs, button groups, selects, checkboxes and radio-buttons, tags, menus, progress bars and sliders, navigation elements and more.
+
+**Responsive:** Yes
+
+**Website:** http://designmodo.com/flat-free
+
+
 ## Fluid 
 
 The Fluid 960 Grid System templates have been built upon the work of Nathan Smith and his 960 Grid System using effects from the MooTools and jQuery JavaScript libraries.
@@ -224,6 +236,17 @@ Helium is a framework for rapid prototyping and production-ready development. In
 **Responsive:** Yes
 
 **Website:** http://html5-ninja.com/icecream
+
+
+## Ingrid
+
+> A fluid CSS layout system.
+
+Ingrid is a lightweight and fluid CSS layout system, whose main goal is to reduce the use of classes on individual units. In general, it is fluid, lightweight and extendable.
+
+**Responsive:** Yes
+
+**Website:** http://piira.se/projects/ingrid/
 
 
 ## Ink
@@ -331,6 +354,20 @@ Malo is ultra small css library for building web sites. It is meant to be struct
 
 **Website:** http://code.google.com/p/malo/
 
+
+## Material Design Lite
+
+> An implementation of Material Design components in vanilla CSS, JS, and HTML
+
+Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries. Optimized for cross-device use, gracefully degrades in older browsers, and offers an experience that is accessible from the get-go.
+
+**Responsive:** Yes
+
+**Website:** http://www.getmdl.io
+
+**Github:** https://github.com/google/material-design-lite
+
+
 ## Materialize CSS
 
 > Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology. 
@@ -339,6 +376,8 @@ Malo is ultra small css library for building web sites. It is meant to be struct
 **Responsive:** Yes
 
 ** Website:** http://materializecss.com
+
+**Github:** https://github.com/Dogfalo/materialize
 
 
 ## Milligram
@@ -369,6 +408,19 @@ mini.css tries to provide as much functionality as possible in under 7KB gzipped
 **Github:** https://github.com/henriquea/minigrid
 
 
+## Polymer
+
+> A library for creating Web Components based on Material Design
+
+Polymer is a library for creating Web Components, which are a set of W3C standards and upcoming browser APIs for defining your own custom HTML elements. With the help of polyfills and sugar, it can create these custom elements and bring Web Component support to browsers that don’t play nice with the standard just yet.
+
+**Responsive:** Yes
+
+**Website:** https://www.polymer-project.org
+
+**Github:** https://github.com/Polymer/polymer
+
+
 ## PureCSS
 
 > A set of small, responsive CSS modules that you can use in every web project, built by the YUI team at Yahoo!.
@@ -378,6 +430,28 @@ PureCSS is a collection of responsive 'drop-ins' built with - you guessed it! - 
 **Responsive:** Yes
 
 **Website:** http://purecss.io/
+
+
+## Responsive Grid System
+
+> Spectacularly Easy Responsive Design
+
+It's a quick, easy & flexible way to create a responsive web site.
+
+**Responsive:** Yes
+
+**Website:** http://www.responsivegridsystem.com/
+
+## Responsive GS
+
+> Simple CSS framework for fast, intuitive development of responsive websites.
+
+Built using the 'Mobile First' approach, 'clearfix' for clearing floats, box-sizing: border-box for adding additional padding to elements, and weighs less then 1kb compressed. 
+
+**Responsive:** Yes
+
+**Website:** http://responsive.gs/
+
 
 ## Ribs
 
@@ -501,6 +575,28 @@ Unsemantic is a fluid grid system that is the successor to the [960 Grid System]
 **Website:** http://unsemantic.com/
 
 
+## Workless
+
+> A clean & classy HTML5, CSS3 framework
+
+Standardizes CSS, improves usability and interaction, sets base typography to help vertical rhythm and readability and adds helper classes to style elements easily.
+
+**Responsive:** Yes
+
+**Website:** http://workless.ikreativ.com/
+
+
+## xCSS
+
+> Object-Oriented CSS Framework
+
+xCSS bases on CSS and empowers a straightforward and object-oriented workflow when developing complex style cascades. Using xCSS means a dramatic cut down to your development time by: having a intuitive overview of the overall CSS structure, using variables, re-using existing style cascades and many other handy features.
+
+**Responsive:** No
+
+**Website:** http://xcss.antpaw.org/
+
+
 ## YAML
 
 > “Yet Another Multicolumn Layout” (YAML)
@@ -522,13 +618,4 @@ The foundational YUI CSS is an extremely lightweight layer of responsive CSS for
 **Website:** http://yuilibrary.com/
 
 
-## xCSS
-
-> Object-Oriented CSS Framework
-
-xCSS bases on CSS and empowers a straightforward and object-oriented workflow when developing complex style cascades. Using xCSS means a dramatic cut down to your development time by: having a intuitive overview of the overall CSS structure, using variables, re-using existing style cascades and many other handy features.
-
-**Responsive:** No
-
-**Website:** http://xcss.antpaw.org/
 
