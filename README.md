@@ -321,6 +321,17 @@ Pure is ridiculously tiny. The entire set of modules clocks in at 4.5KB* minifie
 
 **Github:** https://github.com/jlukic/Semantic-UI
 
+## Sierra
+
+> The smallest and lightest SCSS library
+
+**Responsive:** Yes
+
+**Website:** http://sierra-library.github.io/
+
+**Github:** https://github.com/sierra-library/sierra
+
+
 ## Crumpet
 
 > A Deliciously Simple SASS/SCSS Responsive Framework
@@ -341,6 +352,17 @@ Jeet allows you to express your page grid the same way a human would describe it
 **Responsive:** Yes
 
 **Website:** http://jeet.gs/
+
+## Sierra
+
+> The smallest and lightest scss library
+
+Sierra is a micro SCSS library to help you build websites in a matter of seconds, without all the arbitrary selectors.
+
+**Responsive:** Yes
+
+**Website:** http://sierra-library.github.io/
+
 
 ## Skeleton
 
