@@ -412,6 +412,17 @@ Pure is ridiculously tiny. The entire set of modules clocks in at 4.5KB* minifie
 **Github:** https://github.com/jlukic/Semantic-UI
 
 
+## Sierra
+ 
+ > The smallest and lightest scss library
+ 
+ Sierra is a micro SCSS library to help you build websites in a matter of seconds, without all the arbitrary selectors.
+ 
+ **Responsive:** Yes
+ 
+ **Website:** http://sierra-library.github.io/
+
+
 ## Skeleton
 
 > A Beautiful Boilerplate for Responsive, Mobile-Friendly Development.
@@ -421,6 +432,44 @@ Skeleton is a small collection of CSS files that can help you rapidly develop si
 **Responsive:** Yes
 
 **Website:** http://www.getskeleton.com/
+
+
+## StackLayout
+
+> A flexible width, component based CSS layout system
+
+StackLayout makes it incredibly easy to use semantic class names for particular areas of your site, such as the main navigation or a thumbnail gallery, or for the entire site as part of your deployment process.
+
+**Responsive:** Yes
+
+**Github:** https://github.com/camslice/StackLayout
+
+
+## Susy
+
+> Your markup. Your design. Our math.
+
+The web is a responsive place, from your lithe & lively development process to your end-user's super-tablet-multi-magic-lap-phone. You need grids that are powerful yet custom, reliable yet responsive.
+
+**Responsive:** Yes
+
+**Website:** http://susy.oddbird.net/
+
+**Github:** https://github.com/ericam/susy/
+
+
+## Taiga Boilerplate
+
+ > Taiga, a head start for UI engineers
+ 
+Taiga Boilerplate is a small HTML/SASS framework for starting a new web project. It is mobile-first with a semantic SASS grid and based on the principles of SMACSS and BEM.
+
+**Responsive:** Yes
+
+**Website:** http://taigaboilerplate.com
+
+**Github:** https://github.com/studiowolf/taiga-boilerplate
+
 
 ## The Golden Grid
 
@@ -469,41 +518,4 @@ xCSS bases on CSS and empowers a straightforward and object-oriented workflow wh
 **Responsive:** No
 
 **Website:** http://xcss.antpaw.org/
-
-
-## Susy
-
-> Your markup. Your design. Our math.
-
-The web is a responsive place, from your lithe & lively development process to your end-user's super-tablet-multi-magic-lap-phone. You need grids that are powerful yet custom, reliable yet responsive.
-
-**Responsive:** Yes
-
-**Website:** http://susy.oddbird.net/
-
-**Github:** https://github.com/ericam/susy/
-
-
-## Taiga Boilerplate
-
- > Taiga, a head start for UI engineers
- 
-Taiga Boilerplate is a small HTML/SASS framework for starting a new web project. It is mobile-first with a semantic SASS grid and based on the principles of SMACSS and BEM.
-
-**Responsive:** Yes
-
-**Website:** http://taigaboilerplate.com
-
-**Github:** https://github.com/studiowolf/taiga-boilerplate
-
-
-## StackLayout
-
-> A flexible width, component based CSS layout system
-
-StackLayout makes it incredibly easy to use semantic class names for particular areas of your site, such as the main navigation or a thumbnail gallery, or for the entire site as part of your deployment process.
-
-**Responsive:** Yes
-
-**Github:** https://github.com/camslice/StackLayout
 
