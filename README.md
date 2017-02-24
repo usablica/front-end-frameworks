@@ -475,9 +475,9 @@ RÖCSSTI is a CSS micro-framework which includes accessibility notions, typo set
 
 > UI is the vocabulary of the web.
 
-Semantic empowers designers and developers by creating a language for sharing UI.
+Semantic is a UI component framework based around useful principles from natural language. 
 
-Pure is ridiculously tiny. The entire set of modules clocks in at 4.5KB* minified and gzipped. Crafted with mobile devices in mind, it was important to us to keep our file sizes small, and every line of CSS was carefully considered. If you decide to only use a subset of these modules, you'll save even more bytes.
+Semantic allows developers to build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging, helping make front-end development a delightful experience. Semantic is responsively designed allowing your website to scale on multiple devices. Semantic is production ready and partnered with frameworks such as React, Angular, Meteor, and Ember, which means you can integrate it with any of these frameworks to organize your UI layer alongside your application logic.
 
 **Responsive:** Yes
 
