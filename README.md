@@ -483,7 +483,7 @@ Pure is ridiculously tiny. The entire set of modules clocks in at 4.5KB* minifie
 
 **Website:** http://semantic-ui.com/
 
-**Github:** https://github.com/jlukic/Semantic-UI
+**Github:**  https://github.com/Semantic-Org/Semantic-UI
 
 
 ## Sierra
