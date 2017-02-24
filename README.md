@@ -6,23 +6,6 @@ A collection of best front-end frameworks for faster and easier web development.
 You can **Compare** all front-end frameworks here: http://usablica.github.com/front-end-frameworks/compare.html
 
 
-## Milligram
-
-> Milligram provides a minimal setup of styles for a fast and clean starting point. Just it! Only 2kb gzipped! It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code.
-
-**Responsive:** Yes
-
-**Website:** http://milligram.github.io
-
-
-## IceCream
-
-> Simple and light responsive grid system
-
-**Responsive:** Yes
-
-**Website:** http://html5-ninja.com/icecream
-
 
 ## 52framework
 
@@ -32,21 +15,6 @@ With HTML5 support coming so fast, with the tiniest of hacks we are able to use 
 
 **Website:** http://52framework.com/
 
-## Concise
-
-> Lightweight, highly customizable, scalable, Sass-based, OOCSS framework. LESS and Stylus ports also available.
-
-**Responsive:** Yes
-
-**Website:** http://concisecss.com/
-
-## Bootstrap
-
-> Sleek, intuitive, and powerful front-end framework for faster and easier web development.
-
-**Responsive:** Yes
-
-**Website:** http://getbootstrap.com/
 
 ## 960 Grid System
 
@@ -94,6 +62,20 @@ A full featured and beautiful CSS framework which originally combined the best o
 
 **Website:** http://bluetrip.org/
 
+
+## Bijou
+
+> A beautiful CSS framework under 2kb
+
+A small, yet beautiful CSS framework that weighs in under 2kb.
+
+**Responsive:** Yes
+
+**Website:** http://andhart.github.io/bijou
+
+**Github:** https://github.com/andhart/bijou
+
+
 ## Boilerplate
 
 > noun standardized pieces of text for use as clauses in contracts or as part of a computer program.
@@ -103,6 +85,28 @@ As one of the original authors of Blueprint CSS I’ve decided to re-factor my i
 **Responsive:** No
 
 **Website:** http://code.google.com/p/css-boilerplate/
+
+## bootmetro
+
+> metro style web framework
+
+simple and flexible web framework to create elegant and modern web applications with the same look & feel of Windows 8.
+
+**Responsive:** Yes
+
+**Website:** http://aozora.github.io/bootmetro/
+
+**Github:** https://github.com/aozora/bootmetro
+
+
+## Bootstrap
+
+> Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+
+**Responsive:** Yes
+
+**Website:** http://getbootstrap.com/
+
 
 ## Cascade Framework
 
@@ -119,6 +123,27 @@ As one of the original authors of Blueprint CSS I’ve decided to re-factor my i
 **Responsive:** Yes
 
 **Website:** https://github.com/jslegers/cascadeframeworklight/
+
+
+## Concise
+
+> Lightweight, highly customizable, scalable, Sass-based, OOCSS framework. LESS and Stylus ports also available.
+
+**Responsive:** Yes
+
+**Website:** http://concisecss.com/
+
+
+## Crumpet
+
+> A Deliciously Simple SASS/SCSS Responsive Framework
+
+Everything is straight forward, all of the code is commented and gives you instructions on how to use Crumpet, so you can spend all your time in the code editor.
+
+**Responsive:** Yes
+
+**Website:** https://github.com/AdamMarsBar/Crumpet
+
 
 ## Easy Framework
 
@@ -191,6 +216,16 @@ Helium is a framework for rapid prototyping and production-ready development. In
 
 **Website:** https://github.com/cbrauckmuller/helium
 
+
+## IceCream
+
+> Simple and light responsive grid system
+
+**Responsive:** Yes
+
+**Website:** http://html5-ninja.com/icecream
+
+
 ## Ink
 
 > Ink is a set of tools for quick development of web interfaces.
@@ -202,6 +237,42 @@ It offers a fluid and responsive grid, common interface elements, interactive co
 **Website:** http://ink.sapo.pt/
 
 **Github:** http://github.com/sapo/ink/
+
+
+## inuit.css
+
+> A powerful, scalable, Sass-based, [BEM](http://bem.info/), OOCSS framework.
+
+inuit.css is a Sass based, Object Oriented framework that is full of objects and abstractions. inuit.css provides little-to-no design which means no undoing things, no deleting CSS and no adhering to other peoples’ design decisions.
+
+**Responsive:** Yes
+
+**Website:** http://inuitcss.com/
+
+**Github:** https://github.com/csswizardry/inuit.css/
+
+
+## IVORY Framework
+
+> Simple, Flexible, Powerful
+
+Responsive front-end web framework. Makes your front-end development faster and easier. Takes you all theway from 1200PX on down to 320PX.
+
+**Responsive:** Yes
+
+**Github:** https://github.com/kanthvallampati/IVORY
+
+
+## Jeet
+
+> A CSS Grid System for Humans
+
+Jeet allows you to express your page grid the same way a human would describe it. No more needlessly nesting elements. No more rigid twelve column rules. Enjoy building faster with less code, and more flexibility with Jeet.
+
+**Responsive:** Yes
+
+**Website:** http://jeet.gs/
+
 
 ## Kickoff
 
@@ -269,6 +340,15 @@ Malo is ultra small css library for building web sites. It is meant to be struct
 
 ** Website:** http://materializecss.com
 
+
+## Milligram
+
+> Milligram provides a minimal setup of styles for a fast and clean starting point. Just it! Only 2kb gzipped! It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code.
+
+**Responsive:** Yes
+
+**Website:** http://milligram.github.io
+
 ## mini.css
 
 > A minimal, responsive, style-agnostic CSS framework!
@@ -278,6 +358,16 @@ mini.css tries to provide as much functionality as possible in under 7KB gzipped
 **Responsive:** Yes
 
 **Website:** https://chalarangelo.github.io/mini.css/
+
+
+## minigrid
+
+> Minimal 2kb zero dependency cascading grid layout
+
+**Responsive:** Yes
+
+**Github:** https://github.com/henriquea/minigrid
+
 
 ## PureCSS
 
@@ -321,26 +411,6 @@ Pure is ridiculously tiny. The entire set of modules clocks in at 4.5KB* minifie
 
 **Github:** https://github.com/jlukic/Semantic-UI
 
-## Crumpet
-
-> A Deliciously Simple SASS/SCSS Responsive Framework
-
-Everything is straight forward, all of the code is commented and gives you instructions on how to use Crumpet, so you can spend all your time in the code editor.
-
-**Responsive:** Yes
-
-**Website:** https://github.com/AdamMarsBar/Crumpet
-
-
-## Jeet
-
-> A CSS Grid System for Humans
-
-Jeet allows you to express your page grid the same way a human would describe it. No more needlessly nesting elements. No more rigid twelve column rules. Enjoy building faster with less code, and more flexibility with Jeet.
-
-**Responsive:** Yes
-
-**Website:** http://jeet.gs/
 
 ## Skeleton
 
@@ -368,15 +438,6 @@ Unsemantic is a fluid grid system that is the successor to the [960 Grid System]
 
 **Website:** http://unsemantic.com/
 
-## xCSS
-
-> Object-Oriented CSS Framework
-
-xCSS bases on CSS and empowers a straightforward and object-oriented workflow when developing complex style cascades. Using xCSS means a dramatic cut down to your development time by: having a intuitive overview of the overall CSS structure, using variables, re-using existing style cascades and many other handy features.
-
-**Responsive:** No
-
-**Website:** http://xcss.antpaw.org/
 
 ## YAML
 
@@ -398,6 +459,18 @@ The foundational YUI CSS is an extremely lightweight layer of responsive CSS for
 
 **Website:** http://yuilibrary.com/
 
+
+## xCSS
+
+> Object-Oriented CSS Framework
+
+xCSS bases on CSS and empowers a straightforward and object-oriented workflow when developing complex style cascades. Using xCSS means a dramatic cut down to your development time by: having a intuitive overview of the overall CSS structure, using variables, re-using existing style cascades and many other handy features.
+
+**Responsive:** No
+
+**Website:** http://xcss.antpaw.org/
+
+
 ## Susy
 
 > Your markup. Your design. Our math.
@@ -410,41 +483,19 @@ The web is a responsive place, from your lithe & lively development process to y
 
 **Github:** https://github.com/ericam/susy/
 
-## inuit.css
 
-> A powerful, scalable, Sass-based, [BEM](http://bem.info/), OOCSS framework.
+## Taiga Boilerplate
 
-inuit.css is a Sass based, Object Oriented framework that is full of objects and abstractions. inuit.css provides little-to-no design which means no undoing things, no deleting CSS and no adhering to other peoples’ design decisions.
-
-**Responsive:** Yes
-
-**Website:** http://inuitcss.com/
-
-**Github:** https://github.com/csswizardry/inuit.css/
-
-## Bijou
-
-> A beautiful CSS framework under 2kb
-
-A small, yet beautiful CSS framework that weighs in under 2kb.
+ > Taiga, a head start for UI engineers
+ 
+Taiga Boilerplate is a small HTML/SASS framework for starting a new web project. It is mobile-first with a semantic SASS grid and based on the principles of SMACSS and BEM.
 
 **Responsive:** Yes
 
-**Website:** http://andhart.github.io/bijou
+**Website:** http://taigaboilerplate.com
 
-**Github:** https://github.com/andhart/bijou
+**Github:** https://github.com/studiowolf/taiga-boilerplate
 
-## bootmetro
-
-> metro style web framework
-
-simple and flexible web framework to create elegant and modern web applications with the same look & feel of Windows 8.
-
-**Responsive:** Yes
-
-**Website:** http://aozora.github.io/bootmetro/
-
-**Github:** https://github.com/aozora/bootmetro
 
 ## StackLayout
 
@@ -456,20 +507,3 @@ StackLayout makes it incredibly easy to use semantic class names for particular 
 
 **Github:** https://github.com/camslice/StackLayout
 
-## IVORY Framework
-
-> imple, Flexible, Powerful
-
-Responsive front-end web framework. Makes your front-end development faster and easier. Takes you all theway from 1200PX on down to 320PX.
-
-**Responsive:** Yes
-
-**Github:** https://github.com/kanthvallampati/IVORY
-
-## minigrid
-
-> Minimal 2kb zero dependency cascading grid layout
-
-**Responsive:** Yes
-
-**Github:** https://github.com/henriquea/minigrid
