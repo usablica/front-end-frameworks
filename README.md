@@ -13,24 +13,6 @@ You can **Compare** all front-end frameworks here: http://usablica.github.com/fr
 
 **Website:** http://html5-ninja.com/icecream
 
-## Formee Framework for forms
->  Formee is nothing but a framework to help you develop and customize web based forms.
->  Crossbrowser: Don't worry about having your form being rendered differently in the major browsers.
->  Flexible:It fits into your project, it's flexible enough to adapt to the width you have available for the form.
->  Customizable:You can easily change between a stylish form or a minimalist one. It comes with the basic needed for you to put your touch in it.
-
-**Responsive:** No
-
-**Website:** http://www.formee.org/
-
-
-## 1kb grid
-
-Other CSS frameworks try to do everything—grid system, style reset, basic typography, form styles. But complex systems are, well, complex. Looking for a simple, lightweight approach that doesn't require a PhD? Meet The 1KB CSS Grid.
-
-**Responsive:** No
-
-**Website:** http://www.1kbgrid.com/
 
 ## 52framework
 
@@ -138,23 +120,6 @@ Easy is a CSS/HTML/JavaScript framework started as a personal project and then g
 
 **Website:** http://easyframework.com/
 
-## elastiCSS
-
-A simple css framework to layout web-based interfaces, based on the printed layout techniques of 4 columns but with capabilities to  unlimited column combinations. and capacity to make elastic, fixed and liquid layout easily
-
-**Responsive:** No
-
-**Website:** http://elasticss.com/
-
-## Elements
-
-> Elements is a down to earth CSS framework.
-
-It was built to help designers write CSS faster and more efficient. Elements goes beyond being just a framework, it’s its own project workflow.It has everything you need to complete your project, which makes you and your clients happy.
-
-**Responsive:** No
-
-**Website:** http://elements.projectdesigns.org/
 
 ## Emastic
 
@@ -171,14 +136,6 @@ FEM CSS Framework is a 960px width + 12 column grid system + CSS common styles, 
 **Responsive:** No
 
 **Website:** http://www.frontendmatters.com/projects/fem-css-framework/
-
-## Flaminwork
-
-> The tiny front-end framework for lazy developers.
-
-**Responsive:** No
-
-**Website:** http://flaminwork.com/
 
 ## Fluid 
 
@@ -207,14 +164,6 @@ G5 Framework started as a personal project. In an attempt to speed up workflow, 
 **Responsive:** No
 
 **Website:** http://framework.gregbabula.info/
-
-## GroundworkCSS
-
-A responsive framework with a fractional, semantic grid system built with Sass &amp; Compass.
-
-**Responsive:** Yes
-
-**Website:** http://groundwork.sidereel.com/
 
 ## Gumby
 
@@ -254,7 +203,7 @@ The framework is not meant to be too prescriptive - we don't want to force devel
 
 **Responsive:** Yes
 
-**Website:** http://tmwagency.github.io/kickoff/
+**Website:** http://trykickoff.com/index.html
 
 **Github:** https://github.com/tmwagency/kickoff
 
@@ -280,15 +229,6 @@ Layers CSS is aimed for practical use and comes with zero bullshit.
 
 **Bitbucket:** https://bitbucket.org/Eiskis/layers-css/src/tip/source/layers/
 
-## Less Framework
-
-> An adaptive CSS grid system.
-
-Less Framework is a CSS grid system for designing adaptive web­sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.
-
-**Responsive:** Yes
-
-**Website:** http://lessframework.com/
 
 ## Lovely CSS Framework
 
@@ -494,8 +434,6 @@ StackLayout makes it incredibly easy to use semantic class names for particular 
 
 **Responsive:** Yes
 
-**Website:** http://www.stacklayout.com/
-
 **Github:** https://github.com/camslice/StackLayout
 
 ## IVORY Framework
@@ -505,7 +443,5 @@ StackLayout makes it incredibly easy to use semantic class names for particular 
 Responsive front-end web framework. Makes your front-end development faster and easier. Takes you all theway from 1200PX on down to 320PX.
 
 **Responsive:** Yes
-
-**Website:** http://weice.in/ivory/
 
 **Github:** https://github.com/kanthvallampati/IVORY
