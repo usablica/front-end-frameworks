@@ -26,7 +26,7 @@ You can **Compare** all front-end frameworks here: http://usablica.github.com/fr
 
 ## 52framework
 
-With HTML5 support coming so fast, with the tiniest of hacks we are able to use it today in virtually al browsers. Using HTML5 makes for much cleaner mark up. This framework fully uses all the great advantages of HTML5.
+With HTML5 support coming so fast, with the tiniest of hacks we are able to use it today in virtually all browsers. Using HTML5 makes for much cleaner mark up. This framework fully uses all the great advantages of HTML5.
 
 **Responsive:** No
 
