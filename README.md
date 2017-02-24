@@ -213,9 +213,9 @@ The framework is not meant to be too prescriptive - we don't want to force devel
 
 **Responsive:** Yes
 
-**Website:** http://trykickoff.com/index.html
+**Website:** http://trykickoff.com
 
-**Github:** https://github.com/tmwagency/kickoff
+**Github:** https://github.com/trykickoff/kickoff
 
 ## Kube
 
