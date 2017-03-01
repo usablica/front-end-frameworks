@@ -566,6 +566,16 @@ The Golden Grid is a web grid system. It 's a product of the search for the perf
 
 **Website:** http://code.google.com/p/the-golden-grid/
 
+## UIkit
+
+A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+
+**Responsive:** Yes
+
+**Website:** http://www.getuikit.com
+
+**Github:** https://github.com/uikit
+
 ## Unsemantic
 
 Unsemantic is a fluid grid system that is the successor to the [960 Grid System](http://960.gs/). It works in a similar way, but instead of being a set number of columns, it's entirely based on percentages.
