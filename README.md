@@ -628,4 +628,15 @@ The foundational YUI CSS is an extremely lightweight layer of responsive CSS for
 **Website:** http://yuilibrary.com/
 
 
+## Grommet
+
+> The most advanced UX framework for enterprise applications
+
+A comprehensive collection of React components, developed by Hewlett Packard (HP), intended for building robust enterprice and backend user interfaces. Styled using Inuit-based OOCSS. Offers good accessibility, full responsive UI, and includes design resources for prototyping using Sketch app.
+
+**Responsive:** Yes
+
+**Website:** https://grommet.github.io/
+
+**Github:** https://github.com/grommet/grommet
 
