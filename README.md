@@ -184,7 +184,7 @@ Flat UI Free is made on the basis of Twitter Bootstrap in a stunning flat-style,
 **Website:** http://designmodo.com/flat-free
 
 
-## Fluid 
+## Fluid
 
 The Fluid 960 Grid System templates have been built upon the work of Nathan Smith and his 960 Grid System using effects from the MooTools and jQuery JavaScript libraries.
 
@@ -296,6 +296,13 @@ Jeet allows you to express your page grid the same way a human would describe it
 
 **Website:** http://jeet.gs/
 
+## Kaliber
+
+> A tiny but powerful CSS framework based on Flexbox.
+
+**Responsive:** Yes
+
+**Website:** https://robbinfellow.github.io/kaliber/
 
 ## Kickoff
 
@@ -370,7 +377,7 @@ Material Design Lite (MDL) lets you add a Material Design look and feel to your 
 
 ## Materialize CSS
 
-> Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology. 
+> Created and designed by Google, Material Design is a design language that combines the classic principles of successful design along with innovation and technology.
   Google's goal is to develop a system of design that allows for a unified user experience across all their products on any platform.
 
 **Responsive:** Yes
@@ -392,7 +399,7 @@ Material Design Lite (MDL) lets you add a Material Design look and feel to your 
 
 > A minimal, responsive, style-agnostic CSS framework!
 
-mini.css tries to provide as much functionality as possible in under 7KB gzipped, while mainting a mobile-friendly approach and allowing you to customize it any way you want. 
+mini.css tries to provide as much functionality as possible in under 7KB gzipped, while mainting a mobile-friendly approach and allowing you to customize it any way you want.
 
 **Responsive:** Yes
 
@@ -446,7 +453,7 @@ It's a quick, easy & flexible way to create a responsive web site.
 
 > Simple CSS framework for fast, intuitive development of responsive websites.
 
-Built using the 'Mobile First' approach, 'clearfix' for clearing floats, box-sizing: border-box for adding additional padding to elements, and weighs less then 1kb compressed. 
+Built using the 'Mobile First' approach, 'clearfix' for clearing floats, box-sizing: border-box for adding additional padding to elements, and weighs less then 1kb compressed.
 
 **Responsive:** Yes
 
@@ -475,7 +482,7 @@ RÖCSSTI is a CSS micro-framework which includes accessibility notions, typo set
 
 > UI is the vocabulary of the web.
 
-Semantic is a UI component framework based around useful principles from natural language. 
+Semantic is a UI component framework based around useful principles from natural language.
 
 Semantic allows developers to build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging, helping make front-end development a delightful experience. Semantic is responsively designed allowing your website to scale on multiple devices. Semantic is production ready and partnered with frameworks such as React, Angular, Meteor, and Ember, which means you can integrate it with any of these frameworks to organize your UI layer alongside your application logic.
 
@@ -487,13 +494,13 @@ Semantic allows developers to build beautiful websites fast, with concise HTML, 
 
 
 ## Sierra
- 
+
  > The smallest and lightest scss library
- 
+
  Sierra is a micro SCSS library to help you build websites in a matter of seconds, without all the arbitrary selectors.
- 
+
  **Responsive:** Yes
- 
+
  **Website:** http://sierra-library.github.io/
 
 
@@ -510,7 +517,7 @@ Skeleton is a small collection of CSS files that can help you rapidly develop si
 
 ## Spectre.css
 
-> Lightweight, Responsive and Modern 
+> Lightweight, Responsive and Modern
 
 A lightweight, responsive and modern CSS framework for faster and extensible development.
 
@@ -548,7 +555,7 @@ The web is a responsive place, from your lithe & lively development process to y
 ## Taiga Boilerplate
 
  > Taiga, a head start for UI engineers
- 
+
 Taiga Boilerplate is a small HTML/SASS framework for starting a new web project. It is mobile-first with a semantic SASS grid and based on the principles of SMACSS and BEM.
 
 **Responsive:** Yes
