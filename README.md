@@ -424,6 +424,19 @@ mini.css tries to provide as much functionality as possible in under 7KB gzipped
 **Github:** https://github.com/henriquea/minigrid
 
 
+## Picnic CSS
+
+> Lightweight and beautiful library
+
+A beautiful CSS library to kickstart your projects.
+
+**Responsive:** Yes
+
+**Website:** https://picnicss.com
+
+**Github:** https://github.com/franciscop/picnic
+
+
 ## Polymer
 
 > A library for creating Web Components based on Material Design
