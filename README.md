@@ -587,6 +587,17 @@ Taiga Boilerplate is a small HTML/SASS framework for starting a new web project.
 **Github:** https://github.com/studiowolf/taiga-boilerplate
 
 
+## Tailwind CSS
+
+ > A Utility-First CSS Framework for Rapid UI Development
+
+**Responsive:** Yes
+
+**Website:** https://tailwindcss.com
+
+**Github:** https://github.com/tailwindcss/tailwindcss
+
+
 ## TentCSS
 
  > A CSS survival kit. 
