@@ -657,6 +657,17 @@ Unsemantic is a fluid grid system that is the successor to the [960 Grid System]
 **Website:** http://unsemantic.com/
 
 
+## Vanilla Framework
+
+> Vanilla is a simple extensible CSS framework, written in Sass, by the Ubuntu Web Team.
+
+**Responsive:** Yes
+
+**Website:** https://vanillaframework.io
+
+**Github:** https://github.com/vanilla-framework/vanilla-framework
+
+
 ## Workless
 
 > A clean & classy HTML5, CSS3 framework
