@@ -144,6 +144,17 @@ simple and flexible web framework to create elegant and modern web applications 
 **Website:** https://github.com/jslegers/cascadeframeworklight/
 
 
+## Chota
+
+> A really small CSS framework
+
+**Responsive:** Yes
+
+**Website:** https://jenil.github.io/chota
+
+**Github:** https://github.com/jenil/chota
+
+
 ## Concise
 
 > Lightweight, highly customizable, scalable, Sass-based, OOCSS framework. LESS and Stylus ports also available.
