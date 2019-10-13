@@ -679,6 +679,17 @@ Unsemantic is a fluid grid system that is the successor to the [960 Grid System]
 **Github:** https://github.com/vanilla-framework/vanilla-framework
 
 
+## Wing
+
+> A beautiful CSS framework designed for minimalists.
+
+Everything you need to create a basic project is included, all in a 2kb file (minified + gzipped). On top of that, almost everything is styled automatically, without the need for learning specific classes. This allows for an intuitive experience developing with Wing, as it's designed to be a boilerplate stylesheet for any project.
+
+**Responsive:** Yes
+
+**Website:** https://kbrsh.github.io/wing
+
+
 ## Workless
 
 > A clean & classy HTML5, CSS3 framework
