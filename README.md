@@ -155,6 +155,17 @@ simple and flexible web framework to create elegant and modern web applications 
 **Github:** https://github.com/jenil/chota
 
 
+## Cirrus
+
+> A fully responsive and comprehensive CSS framework with beautiful controls and simplistic structure. Integrate it with any existing design or use it to kick start your next project.
+
+**Responsive:** Yes
+
+**Website:** https://spiderpig86.github.io/Cirrus/
+
+**Github:** https://github.com/Spiderpig86/Cirrus
+
+
 ## Concise
 
 > Lightweight, highly customizable, scalable, Sass-based, OOCSS framework. LESS and Stylus ports also available.
