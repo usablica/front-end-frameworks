@@ -423,7 +423,7 @@ Material Design Lite (MDL) lets you add a Material Design look and feel to your 
 
 **Responsive:** Yes
 
-** Website:** http://materializecss.com
+**Website:** http://materializecss.com
 
 **Github:** https://github.com/Dogfalo/materialize
 
