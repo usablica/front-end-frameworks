@@ -769,4 +769,17 @@ The foundational YUI CSS is an extremely lightweight layer of responsive CSS for
 **Website:** http://yuilibrary.com/
 
 
+## Flexbox Grid
+
+> Lightweight, Responsive and Modern
+
+A grid system based on the flex display property.
+
+**Responsive:** Yes
+
+**Website:** http://flexboxgrid.com/
+
+**Github:** https://github.com/kristoferjoseph/flexboxgrid
+
+
 
