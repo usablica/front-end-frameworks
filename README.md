@@ -782,4 +782,17 @@ A grid system based on the flex display property.
 **Github:** https://github.com/kristoferjoseph/flexboxgrid
 
 
+## Base CSS framework
+
+> A Rock Solid, Responsive CSS Framework
+
+Lightweight and minimal code. Spend less time overriding styles and focus more time on creating beautiful website applications.
+
+**Responsive:** Yes
+
+**Website:** http://getbase.org/
+
+**Github:** https://github.com/getbase/base
+
+
 
