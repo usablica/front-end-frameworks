@@ -795,6 +795,7 @@ Lightweight and minimal code. Spend less time overriding styles and focus more t
 **Github:** https://github.com/getbase/base
 
 
+<<<<<<< HEAD
 ## Basscss
 
 > Low-Level CSS Toolkit
@@ -808,4 +809,6 @@ Low-Level CSS Toolkit. Lightning Fast Modular CSS with No Side Effects
 **Github:** https://github.com/basscss/basscss
 
 
+=======
+>>>>>>> upstream/master
 
